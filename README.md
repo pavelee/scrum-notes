@@ -2,16 +2,18 @@
 
 ## Źródło
 
-* Moje doświadczenia
-* Ksiązka "SCRUM" Jeff Sutherland
-* Ksiązka "Zwinne wytwarzanie oprogramowania" Robert C. Martin
+- Moje doświadczenia
+    - Praca w paru firmach, różne implementacje pracy zwinnej lub całkowity brak
+- Ksiązka "SCRUM" Jeff Sutherland
+    - Autor ksiązki jest tez jednym z pomysłodawców AGILE oraz SCRUM'a
+    - Świetnie napisana, praktyczna wiedza
 
-## Zwinna praca / Agile
+## Zwinna praca (Agile)
 
 ### Czemu zwinna praca?
 
 #### Jak to zwykle bywa w projektach
 
-### Załozenia zwinnej pracy
+### Założenia zwinnej pracy
 
 ## SCRUM
