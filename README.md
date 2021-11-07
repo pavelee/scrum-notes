@@ -4,6 +4,8 @@
 
 - Moje doświadczenia
     - Praca w paru firmach, różne implementacje pracy zwinnej lub całkowity brak
+        - Sytuacje gdzie brak zrozumienia SCRUM'a, działał na nie korzyść zespołu
+        - Sytuacje gdzie wykonywaliśmy pracę na tyle szybko ze kazali nam zwolnić
 - Ksiązka "SCRUM" Jeff Sutherland
     - Autor ksiązki jest tez jednym z pomysłodawców AGILE oraz SCRUM'a
     - Świetnie napisana, praktyczna wiedza
