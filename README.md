@@ -34,6 +34,8 @@
     - Skupiały się bardziej na raportach niż reagowaniu na zmiany, oderwanie od rzeczywistości
     - Nadmierny wysiłek w planowanie idzie na marne
 
+![gantt](https://github.com/pavelee/scrum_about_pl/blob/main/asset/gantt.png?raw=true)
+
 ### Założenia zwinnej pracy
 
 - Ludzie i interakcje ponad procesy i narzędzia
