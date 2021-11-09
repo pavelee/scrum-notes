@@ -116,6 +116,16 @@
     - samodzielene w decyzji
     - cel większy niż one same
     - dobrze pracujące mogą osiągniąć "superproduktywność"
+    - idealne cechy zespołu
+        - rozumie wizje
+        - autonomiczny
+            - samoorganizacja
+            - samodzielne podejmowanie decyzji
+        - wskroś funkcjonalny
+            - wszystkie umiejętności potrzebne do ukończenia projektu
+    - Osiągnięcie tego nie byłoby możliwe, gdyby zespołu nie przepełniało poczucie celu (zrobić najlepsze reportaże w karierze) i nie miał on autonomii (możliwość samodzielnego decydowania, jak ciągnąć tę wielowątkową historię).
+    - wskazuje, że role nie mogą być rozdzielone. Każdy z nich ma ludzi, który potrafią zrobić wszystko, od A do Z
+    - poszukuje w zespole różnorodności – zestawu umiejętności, myślenia i doświadczenia. Chce drużyn niesamolubnych i autonomicznych, a jednocześnie wskroś funkcjonalnych. Zespołów, które potrafią wykonać pracę
 
 - Kierownictwo
     - pełni rolę służebną
@@ -123,6 +133,7 @@
     - usuwają przeszkody z drogi zamiast mówić im jak mają tworzyć produkt
     - pilnuję postępów, poprawy, jakości, uniwersalności
     - ważne jest działanie
+    - Jeżeli jednak specjalista identyfikuje się bardziej ze swoją specjalnością niż z produktem, wie, że czeka ją praca
 
 - Wersje demonstracyjne
     - Dążenie do produktu możliwego do częstego prezentowania
@@ -133,3 +144,17 @@
 
 - Nagrody za pracę zespołową, nie indywidualną
 
+- Wspołpraca
+    - Obwinianie kogokolwiek jest głupie
+    - Nie szukajmy złych ludzi, szukajmy złych systemów
+    - biznesie zbyt często polegamy na jednostkach
+    - nie powinieneś zatrudniać zwyczajnych studentów z piątkami, ale tych, którzy je zdobywają, pracując najkrócej
+    - Motywacje muszą przyjść od wewnątrz. Narzucanie ich zabije to, co próbujemy zrobić
+    - Podobnie ważna, choć mniej doceniana, jest swoboda wykonywania pracy w taki sposób, jaki uważasz za najlepszy, czyli twoja autonomia. We wszystkich wielkich zespołach to ich członkowie decydują o tym, jak wykonać cele wyznaczone przez kierownictwo organizacji
+    - Trzecią nogą trójnogu, na którym wspiera się wielkość zespołów, jest posiadanie przez wszystkich członków zespołu umiejętności niezbędnych do wykonania zadania
+
+- Zarządzanie
+    - Nie było to typowe zarządzanie czy przywództwo, raczej pomoc ludziom w jak najlepszym wykonywaniu pracy
+    - Nie mówił im, co mają robić, a zapewniał to, czego potrzebowali
+    - Jedną z istotnych zasad metody Scrum jest to, że członkowie grupy  s a m o d z i e l n i e   d e c y d u j ą  o sposobie wykonania pracy. Cele strategiczne to odpowiedzialność kierownictwa, ale podjęcie decyzji, jak je osiągnąć, jest zadaniem zespołu
+    - Scrum Mastera (mistrza metody Scrum), było, aby przeszkody zgłaszane przez zespół na jednym spotkaniu znikały przed kolejnym spotkaniem
