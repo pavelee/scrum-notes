@@ -109,6 +109,10 @@
             - Czy wzięli na swoje barki zbyt wiele i nie skończyli wszystkiego?
             - Czy wzieli zbyt mało?
             - Celem jest zrozumienie jak szybko pracuje grupa
+    - Zadajemy sobie pytania
+        - Co możemy zmienić w naszym sposobie pracy?
+        - Co najbardziej nas powstrzymuje?
+        - Jeśli odpowiedzi na te pytania otrzymujemy na bieżąco, zespół może działać szybciej, niż ktokolwiek jest w stanie sobie wyobrazić.
 
 - Zespoły
     - uzupełniające się nawzajem
@@ -158,3 +162,14 @@
     - Nie mówił im, co mają robić, a zapewniał to, czego potrzebowali
     - Jedną z istotnych zasad metody Scrum jest to, że członkowie grupy  s a m o d z i e l n i e   d e c y d u j ą  o sposobie wykonania pracy. Cele strategiczne to odpowiedzialność kierownictwa, ale podjęcie decyzji, jak je osiągnąć, jest zadaniem zespołu
     - Scrum Mastera (mistrza metody Scrum), było, aby przeszkody zgłaszane przez zespół na jednym spotkaniu znikały przed kolejnym spotkaniem
+    - „prawo Brooksa” (Brooks’s Law), które sformułował Fred Brooks w roku 1975 w swojej książce The Mythical Man-Month. Mówiąc prosto – prawo Brooksa stwierdza, że „dodawanie zasobów ludzkich do opóźnionych projektów z zakresu oprogramowania powoduje dalsze opóźnienie”. Zostało to potwierdzone w kolejnych badaniach
+    - projekty wykonywane przez dwadzieścia i więcej osób wymagają więcej wysiłku niż te realizowane przez pięć lub mniej
+    - Gdy liczebność przekraczała osiem osób, praca pochłaniała znacznie więcej czasu. Grupy złożone z trzech do siedmiu członków wkładały w wykonanie tej samej pracy około 25% wysiłku, jaki musiały włożyć grupy liczące ich od dziewięciu do dwudziestu
+    - Problemy gdy zespół jest zbyt duży:
+        - Zgodnie z przewidywaniem, wprowadzenie nowej osoby spowalnia pozostałe
+        - Wraz ze wzrostem liczby osób znacząco rośnie liczba kanałów komunikacyjnych, a nasz mózg nie jest w stanie sobie z tym poradzić. Istnieje ściśle określony limit tego, co może on przechowywać w jednym czasie.
+        - Często zespół – społecznie i funkcjonalnie – dzieli się na podzespoły, które zaczynają realizować nakładające się cele. Przepada wielozadaniowość. Spotkania, które zajmowały kilka minut, zaczynają trwać godzinami.
+    - Scrum master
+        - Nie menedżera, raczej służebnego przywódcy
+        - się na termin „Scrum Master” (Mistrz Scruma). Człowiek ten powinien ułatwiać prowadzenie spotkań, dbać o ich przejrzystość i – co najważniejsze – pomagać zespołowi w ocenie, co mu przeszkadza
+        - Zadaniem Scrum Mastera jest prowadzenie zespołu ku  s t a ł e j   p o p r a w i e,czyli regularne zadawanie pytania: „Jak możemy zrobić to lepiej?”.
