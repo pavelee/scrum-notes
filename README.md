@@ -39,6 +39,7 @@
 ### Założenia zwinnej pracy
 
 - Ludzie i interakcje ponad procesy i narzędzia
+    - minimalizacja biurokracji
 - Działające oprogramowanie ponad szczegółową dokumentacje
 - Współpracę z klientem ponad negocjacjowanie umów
 - Reagowanie na zmiany ponad realizacje założonego planu.
@@ -53,7 +54,7 @@
     - informacji zwrotnych dotyczących środowiska, można by osiągnąć wyższe poziomy efektywności
     - można się nauczyć tylko w praktyce
         - wymaga stałego wysiłku aby osiągnąc lepszy stan
-    - T o   o t a c z a j ą c y   n a s   s y s t e m, a nie żadne wewnętrzne atrybuty, odpowiada za większą część naszego zachowania. Metoda Scrum powstała, aby zmienić ten system.
+    - To otaczający nas system, a nie żadne wewnętrzne atrybuty, odpowiada za większą część naszego zachowania. Metoda Scrum powstała, aby zmienić ten system.
         - niemal natychmiast fabryka zaczęła produkować auta tak samo precyzyjne i niemal bezawaryjne jak japońskie. Ci sami ludzie, inny system
     - Chodzi o określenie właściwych ram i odpowiedniej stymulacji, pozwalających ludziom dać wolność, szacunek i władzę do wzięcia spraw we własne ręce. Wielkości nie można narzucić; musi pochodzić od nas samych. Na szczęście żyje ona w nas wszystkich
 
