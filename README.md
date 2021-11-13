@@ -4,6 +4,7 @@
 
 - Ksiązka "SCRUM" Jeff Sutherland
     - Autor ksiązki jest tez jednym z pomysłodawców AGILE oraz SCRUM'a
+    - Zrozumienie genezy SCRUM'a
     - Świetnie napisana, praktyczna wiedza
 - Moje doświadczenia
     - Praca w paru firmach, różne implementacje pracy zwinnej lub całkowity brak
@@ -11,35 +12,43 @@
 
 ### Czemu zwinna praca?
 
-- Kakadowe podejście nie działa
-    - oprogramowanie
-        - niemal zawsze opóźnione
-        - przekroczony budżet
-        - często po prostu nie działały
+- kakadowe podejście nie działa w środowisku o niskiej przewidywalności
+    - niska przewidywalność
+        - innowacja
+        - adaptacja względem potrzeb klienta
+    - hamonogram jest zbyt szybko nie aktualny
+        - wysiłek spędzony na wykresach i szczegółowym planowaniu idzie na marne
+        - oderwanie od rzeczywistości prowadzi nas w złym kierunku
+    - zbyt późne zderzenie z rzeczywistością
+        - poprawienie wykrytych błędów jest znacznie bardziej kosztowne
+    - jest to praktykowane ponieważ nie znamy innego systemu
+        - inni tak robią
+        - biznes lubi przewidywalność i wizualizacje
+    - nie odpowiedni system pracy prowadzi do porażki
         - problemem było planowanie z góry, założenie że nic się nie zmieni
-    - nieefektywny
-    - marnotrawny
-    - bo wszyscy tak postępują?
-    - dehumanizujący i depresyjny
-    - wykresy, piękne w swojej precyzji, były jednocześnie tworami całkowicie sztucznymi
-    - Opóźnienia prowadzą do
-        - mikrozarządzania
-        - zachowań pasywno-agresywnych
-        - nadgodzin
-    - Brzmi rozsądnie, chcemy wizualizować nasza prace
-    - Problemem jest zbytnio szybkie zmiany, po prostu wykres jest nie aktualny 
-    - Skupiały się bardziej na raportach niż reagowaniu na zmiany, oderwanie od rzeczywistości
-    - Nadmierny wysiłek w planowanie idzie na marne
+        - nieefektywny
+        - marnotractwo
+        - depresyjny
+        - prowadzi do zlych zachowań
+            - mikrozarządzania
+            - zachowań pasywno-agresywnych
+            - nadgodzin
 
 ![gantt](https://github.com/pavelee/scrum_about_pl/blob/main/asset/gantt.png?raw=true)
+
+- poszukiwanie innego systemu pracy
 
 ### Założenia zwinnej pracy
 
 - Ludzie i interakcje ponad procesy i narzędzia
     - minimalizacja biurokracji
+    - intesywikacja komunikacji
 - Działające oprogramowanie ponad szczegółową dokumentacje
+    - wartość praktyczna
 - Współpracę z klientem ponad negocjacjowanie umów
+    - budowanie realcji z klientem
 - Reagowanie na zmiany ponad realizacje założonego planu.
+    - adaptacja
 
 ## SCRUM
 
@@ -51,7 +60,6 @@
     - informacji zwrotnych dotyczących środowiska, można by osiągnąć wyższe poziomy efektywności
     - można się nauczyć tylko w praktyce
         - wymaga stałego wysiłku aby osiągnąc lepszy stan
-    - To otaczający nas system, a nie żadne wewnętrzne atrybuty, odpowiada za większą część naszego zachowania. Metoda Scrum powstała, aby zmienić ten system.
         - niemal natychmiast fabryka zaczęła produkować auta tak samo precyzyjne i niemal bezawaryjne jak japońskie. Ci sami ludzie, inny system
     - Chodzi o określenie właściwych ram i odpowiedniej stymulacji, pozwalających ludziom dać wolność, szacunek i władzę do wzięcia spraw we własne ręce. Wielkości nie można narzucić; musi pochodzić od nas samych. Na szczęście żyje ona w nas wszystkich
 
@@ -65,6 +73,7 @@
         - od samego początku regularne sprawdzanie kierunku
             - czy robimy to co faktycznie jest potrzebne
             - uzyskiwanie opinii na bieżąco
+            - nie ma znaczenia jak ciężko pracujemy, jeśli podążamy w złym kierunku
         - pytanie czy można to zrobić lepiej
             - szybciej i lepiej
             - co nas przed tym powstrzymuje
