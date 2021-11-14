@@ -107,8 +107,16 @@
     - Wszystko, co staje na drodze produkcji, jest marnotrawstwem
 
 - Lider zajmuję się tylko usuwaniem przeszkód
+    - Tytuły to specjalne oznaczenia statusu. Bądź znany z tego, co robisz, a nie z tego, jaki nosisz tytuł
+
+- Weryfikacja kierunku
+    - Przez długie miesiące możemy zmierzać w  kompletnie niewłaściwym kierunku i nawet tego nie podejrzewać
+        - Im szybciej dostarczymy coś naszym klientom, tym szybciej oni powiedzą nam, czy robimy rzecz, której potrzebują.
+    - Odparłem, że co miesiąc będę mu przedstawiał fragment działającego oprogramowania. Nie coś, co działa „na zapleczu”, nie fragment architektury. Po prostu kawałek programu, którego klient może faktycznie użyć
 
 - Sprint
+    - Podziel pracę na fragmenty, które możesz wykonać w regularnym, ustalonym, krótkim okresie. Optymalnie: od jednego do czterech tygodni. A jeżeli złapałeś już scrumowego bakcyla, nazwij je sprintem
+    - Na końcu każdego sprintu musi znaleźć się coś, co jest  gotowe. Coś, z czego można korzystać – do latania, jeżdżenia. Do czegokolwiek.
     - Nazywany przepiegiem, cyklem, iteracją
     - Na początku sprintu zespół spotyka się i planuje sprint
         - Decyduje ile pracy może wykonać w trakcie sprintu
@@ -123,6 +131,12 @@
         - Co możemy zmienić w naszym sposobie pracy?
         - Co najbardziej nas powstrzymuje?
         - Jeśli odpowiedzi na te pytania otrzymujemy na bieżąco, zespół może działać szybciej, niż ktokolwiek jest w stanie sobie wyobrazić.
+    - każdy czwartek siadają i przyglądają się potężnemu rejestrowi rzeczy do zrobienia, który obejmuje wszystko – od przygotowania prototypu projektu nowej deski rozdzielczej po testowanie kierunkowskazów
+        - Porządkują tę listę według priorytetów, a następnie zadają sobie pytanie: „Dobrze. Ile z tych rzeczy możemy zrobić w nadchodzącym tygodniu?”. Przez „zrobić” rozumieją „wykonać całkowicie”, czyli „na gotowo”. I wprowadzone funkcje działają. Samochód jeździ. I tak co tydzień. I w każdym sprincie.
+        - Ważna sprawa – nic nie ma prawa znaleźć się w kolumnie „Ukończone”, jeżeli nie może być użyte przez klienta. Innymi słowy,  s a m o c h ó d   m u s i   j e ź d z i ć. A jeżeli ktoś po jeździe testowej powie: „Hej, kierunkowskazy się blokują!”, zespół zajmie się problemem w kolejnym sprincie
+    - Sprinty są niekiedy nazywane „ramami czasowymi”. Mają ustalony czas trwania. Nie może być tak, że jeden przebieg trwa tydzień, a inny trzy. Tu potrzebna jest konsekwencja. Chcemy przecież określić rytm pracy, sprawić, by ludzie wiedzieli, ile mogą zrobić w uzgodnionym okresie. Często ta ilość pracy bywa dla nich niespodzianką.
+    - Gdy zespół zobowiąże się do wykonania danego zadania, jest ono blokowane
+        - ingerowanie w działanie zespołu i rozpraszanie go drastycznie zmniejsza jego szybkość.
 
 - Zespoły
     - uzupełniające się nawzajem
@@ -137,9 +151,21 @@
             - samodzielne podejmowanie decyzji
         - wskroś funkcjonalny
             - wszystkie umiejętności potrzebne do ukończenia projektu
+    - Intensywność komunikacji przyśpiesza pracę.
+    - W przypadku odprawy zespołu jedno spotkanie dziennie wystarczy. Ludzie zbierają się każdego dnia na kwadrans, aby zobaczyć, co można zrobić, aby przyśpieszyć. I robią to.
     - Osiągnięcie tego nie byłoby możliwe, gdyby zespołu nie przepełniało poczucie celu (zrobić najlepsze reportaże w karierze) i nie miał on autonomii (możliwość samodzielnego decydowania, jak ciągnąć tę wielowątkową historię).
     - wskazuje, że role nie mogą być rozdzielone. Każdy z nich ma ludzi, który potrafią zrobić wszystko, od A do Z
     - poszukuje w zespole różnorodności – zestawu umiejętności, myślenia i doświadczenia. Chce drużyn niesamolubnych i autonomicznych, a jednocześnie wskroś funkcjonalnych. Zespołów, które potrafią wykonać pracę
+    - Nie ma odgórnego przydzielania zadań – zespół jest autonomiczny
+        - Ludzie robią to sami. Nie ma szczegółowych raportów dla kierownictwa
+        - Każdy z szefów, lub członek innego zespołu, może przejść obok tablicy zespołu awioniki, zerknąć i określić, w jakim punkcie aktualnie znajduje się zespół.
+    - Mapa komunikacji zespołu
+        - Ten typ odwzorowania jest narzędziem, którego można używać do rozpoznawania wąskich gardeł lub osób, które gromadzą wiedzę, nie przekazując jej dalej. Im większa intensywność komunikacji im więcej każdy wie o wszystkim tym szybszy jest zespół
+        - Zasadniczo wskaźniki uzyskane przy tego typu analizie określają, w jakim stopniu każdy członek drużyny wie, co jest potrzebne do wykonania pracy jako całości
+    - Jeśli osoba ma specjalny tytuł, ma również tendencje do robienia wyłącznie rzeczy, które do niego pasują. W efekcie, chroniąc własne uprawnienia, zwykle zatrzymuje określoną wiedzę dla siebie.
+    - Zebranie wszystkich osób było elementem decydującym, ponieważ dawało zespołowi możliwość samoorganizowania się wokół problemów
+    - „Czy rzeczywiście chcesz zawsze być do bani? Czy to motywacja w twoim życiu? Ponieważ masz wybór, wiesz – to nie musi być takie”
+        - Pomyśl o swojej pracy. Ile czasu marnujesz, czekając, aż skończy ktoś inny? Albo czekając na dostarczenie potrzebnych informacji? Albo próbując zrobić zbyt wiele rzeczy naraz? Może ty wolisz pracować okrągły dzień, ale ja wolałbym posurfować
 
 - Kierownictwo
     - pełni rolę służebną
@@ -183,3 +209,13 @@
         - Nie menedżera, raczej służebnego przywódcy
         - się na termin „Scrum Master” (Mistrz Scruma). Człowiek ten powinien ułatwiać prowadzenie spotkań, dbać o ich przejrzystość i – co najważniejsze – pomagać zespołowi w ocenie, co mu przeszkadza
         - Zadaniem Scrum Mastera jest prowadzenie zespołu ku  s t a ł e j   p o p r a w i e,czyli regularne zadawanie pytania: „Jak możemy zrobić to lepiej?”.
+        - Codzienne spotkania
+            - Jeżeli zajmuje więcej niż kwadrans, przeprowadzasz je źle
+            - Częstym problemem jest tendencja do traktowania przez ludzi tych codziennych zebrań jak okazji do indywidualnego zdawania raportów. „Zrobiłem to”, „zrobię tamto”… I przechodzimy do następnej osoby
+                - Pomysł polega na tym, aby drużyna szybko naradziła się, jak dojść do zwycięstwa – czyli zakończenia sprintu. Pasywność to nie tylko lenistwo, lecz aktywne szkodzenie wydajności zespołu
+                - Gdy zostanie wykryta, musi być usunięta natychmiast
+            - Jedna osoba usłyszy od drugiej, że zadanie potrwa dzień, ale być może inny członek zespołu wie, jak to zrobić w godzinę, jeśli będą ze sobą współpracować?. Chcę, aby zespoły opuszczające spotkanie mówiły: „Musimy odnieść sukces. Zróbmy to”. Zespoły muszą chcieć być wielkie
+            - pytania
+                - Co zrobiłeś wczoraj, aby przybliżyć zespół do osiągnięcia celu sprintu?
+                - Co zrobisz dzisiaj?
+                - Jakie przeszkody stoją na drodze zespołu?
