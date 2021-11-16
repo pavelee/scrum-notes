@@ -219,3 +219,6 @@
                 - Co zrobiłeś wczoraj, aby przybliżyć zespół do osiągnięcia celu sprintu?
                 - Co zrobisz dzisiaj?
                 - Jakie przeszkody stoją na drodze zespołu?
+                
+- Marnotractwo
+    - Marnotrawstwo jest w większym stopniu przestępstwem wobec społeczeństwa niż stratą biznesową
