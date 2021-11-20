@@ -222,3 +222,24 @@
                 
 - Marnotractwo
     - Marnotrawstwo jest w większym stopniu przestępstwem wobec społeczeństwa niż stratą biznesową
+    - Osoby, które wykonują wiele zadań naraz, nie robią tego dlatego, że są w tym dobre. Robią to, bo są bardziej rozproszone. Są pozbawione odruchu powstrzymującego je przed podjęciem kolejnego działania
+        - Innymi słowy: osoby wykonujące wiele zadań nie potrafią się skupić. Zwyczajnie nie mogą się powstrzymać.
+        - Tak jest! Jeżeli robicie pięć projektów naraz, to na straty idzie 75% pracy
+        - Powrót do poprzedniego stanu świadomości może zająć wiele godzin. To właśnie koszty. Minimalizujmy więc stratę, starając się wykonać w całości te zadania
+    - Wartość pojawia się, gdy folii i farby nie ma już w łazience, pies został nakarmiony, bank otrzymał pieniądze, a na podwórku nie ma żadnych liści. Wykonanie połowy pracy to niezrobienie niczego
+    - Oto przyczyna: w fabryce Toyoty, gdy na linii produkcyjnej pojawiał się problem, taśmę mógł zatrzymać każdy robotnik. Wokół niego gromadziła się reszta, ale nie z pretensjami za przestój, ale żeby pomóc w usunięciu usterki. Nie chciano, aby z linii schodziły jakiekolwiek buble, które trzeba by potem poprawiać. Naprawiano problem natychmiast i na zawsze. Inaczej ta sama usterka pojawiłaby się w setkach samochodów
+    - Proces jest poprawiany na bieżąco, najlepiej in statu nascendi, a nie „kiedyś” czy „później”
+        - P ó ź n i e j s z a   n a p r a w a   t r w a ł a   d w a d z i e ś c i a   c z t e r y   r a z y   d ł u ż e j. Błąd wyłapywany w dniu popełnienia naprawiano przez godzinę; trzytygodniowa zwłoka wydłużała ten czas do doby.
+        - Gdy pracujemy nad projektem, w umyśle tworzymy całą przestrzeń roboczą. Znamy różne przyczyny,  d l a c z e g o  coś jest robione w określony sposób. Mamy w głowie dość skomplikowaną konstrukcję. Odtworzenie jej po tygodniu jest  t r u d n e
+    - Tłumaczył pracownikom, że siedzenie po godzinach to nie dowód zaangażowania, a porażki.
+    - Jak to się dzieje, że pracując mniej godzin, wykonujemy więcej pracy? Wydaje się to być pozbawione sensu. Scott twierdzi, że ludzie, którzy pracują zbyt długo, zaczynają popełniać błędy, których usunięcie może zająć więcej czasu niż ich popełnienie
+        - Przepracowany personel łatwiej się rozprasza i rozprasza innych. Wkrótce zaczyna to skutkować podejmowaniem złych decyzji
+    - Scrum wymaga od zaangażowanych w metodę, aby przestali mierzyć czas. Same godziny to koszt. Zamiast czasu trzeba mierzyć wyniki. Kogo obchodzi, ile godzin pracy coś nam zajęło? Liczy się, jak szybko zostało dostarczone i czy jest wystarczającej jakości
+    - minimalizacja marnotractwa
+        - Pierwszą jest „absurdalność”. Pragniemy dać zespołowi cele stanowiące wyzwania. Popchnąć ludzi, aby sięgnęli po więcej. Ale  n i e   c h c e m y, aby dążyli do absurdu. Do celu niemożliwego.
+        - Drugą stanowią „nierozsądne oczekiwania”. Ileż to razy słyszeliśmy, jak ktoś opowiada o swoich heroicznych wysiłkach, aby ocalić projekt? Zwykle nagradzają go oklaski, zachwyty i gratulacje. Ja jednak dostrzegam podstawowy dysonans. Zespół uzależniony od częstych ofiarnych działań, aby zmieścić się w czasie, nie pracuje tak, jak powinien
+        - trzeci typ marnotrawstwa „przeciążeniem”. Jest to rodzaj zachowań nieodmiennie obecnych u Scotta Adamsa, autora komiksów o Dilbercie. Uciążliwe i przeszkadzające w pracy reguły korporacyjne, pisanie niepotrzebnych raportów i wypełnianie formularzy dla samego wypełniania oraz bezsensowne spotkania, które zabierają czas i nie wnoszą żadnych wartości
+        - firma ma w swoim składzie dupka – kogoś, kto kręci innymi ludźmi, przyprawiając ich o zdenerwowanie. Tego typu jednostki często uzasadniają swoje zachowanie twierdzeniem, że usiłują poprawić pracę innych, podczas gdy w rzeczywistości dają upust negatywnym aspektom własnej osobowości
+    - Każdy „proces” wykorzystywany przez ludzi prowadzi do marnotrawstwa i dotyczy to także metody Scrum.Nie żyjemy jednak w świecie idealnym, zaś złe procesy są tak zintegrowane z naszym sposobem myślenia, że jesteśmy zmuszeni wybrać mniejsze zło – użyć tego o najlżejszej wadze, które będzie miało największy wpływ na pracę
+
+
