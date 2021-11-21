@@ -242,4 +242,61 @@
         - firma ma w swoim składzie dupka – kogoś, kto kręci innymi ludźmi, przyprawiając ich o zdenerwowanie. Tego typu jednostki często uzasadniają swoje zachowanie twierdzeniem, że usiłują poprawić pracę innych, podczas gdy w rzeczywistości dają upust negatywnym aspektom własnej osobowości
     - Każdy „proces” wykorzystywany przez ludzi prowadzi do marnotrawstwa i dotyczy to także metody Scrum.Nie żyjemy jednak w świecie idealnym, zaś złe procesy są tak zintegrowane z naszym sposobem myślenia, że jesteśmy zmuszeni wybrać mniejsze zło – użyć tego o najlżejszej wadze, które będzie miało największy wpływ na pracę
 
-
+- Planowanie
+    - Przyczyna, dla której dojście do wniosku, że nie można wykonać zadania na czas, zajęło  s z e ś ć   m i e s i ę c y, wymagała analizy. Nie wynikała ani z braku kompetencji, ani z braku odpowiednich zespołów. Ani nawet z braków technologicznych. Powodem nie było też uchylanie się od pracy ani niedostateczna konkurencyjność
+    - Zawinił podstawowy błąd – myślenie, że wszystko można zaplanować z wyprzedzeniem. Poświęcono miesiące na tworzenie czegoś w rodzaju szczegółowych koncepcji, które wydają się wiarygodne. Jednak mimo że przedstawione na pięknych wykresach, ze szczegółowo opisanymi krokami, prawie zawsze opisują świat fikcyjny
+    - Wspominałem wcześniej, że akt planowania jako taki jest tak kuszący, że planowanie owo staje się ważniejsze niż sam plan. I staje się ważniejsze od rzeczywistości. Nigdy nie zapominajmy, że mapa to  n i e  teren
+    - Niestety, etap kalkulacji może przerodzić się w proces sprawdzania błędnych danych i otrzymywania błędnych wyników. Osoby weń zaangażowane mogą być bardzo inteligentne, a mimo to zazwyczaj  n i e   z d a j ą   s o b i e   s p r a w y, że tworząc wykresy planistyczne, wykorzystują myślenie życzeniowe
+        - Tyle że nikt faktycznie nie miał planu,  j a k   t o   z r o b i ć
+        - Zrobili system, który zmuszał do zatwierdzania fantazji
+    - Teraz trzeba ocenić, ile pracy przypadnie na każdą z tych karteczek – powiedziałem. – Nie ile czasu, a ile  p r a c y
+    - Standard, który trzeba spełnić, nazywam „definicją ukończenia”. Każdy wie, kiedy coś jest gotowe lub nie; są wyraźne standardy, jakie musi spełniać każdy fragment pracy
+    - Chcieliśmy uzyskać od zebranych coś, czego ludzie na ogół unikają –  określenie   priorytetów   pracy. Twierdzą po prostu, że ważne jest wszystko. I wtedy otrzymują pytanie – co wniesie do projektu największą wartość
+    - Największa i najmniejsza wartość oszacowania różnią się siedmiokrotnie. Gdy projekt posuwa się naprzód i stabilizuje, wartości szacowane coraz bardziej zbliżają się do linii rzeczywistej. Aż zmieniają się w realia.
+    - metodzie Scrum na końcu każdej iteracji mamy jakąś wartość, którą można zobaczyć, dotknąć jej i pokazać klientom. Można ich zapytać: „Czy to jest tym, czego chcecie? Czy to rozwiązuje choć część waszego problemu? Czy idziemy we właściwym kierunku?”. A jeżeli odpowiedź brzmi „nie”, trzeba zmienić plan.
+    - Są to rzeczy istotne, ponieważ gdy zaczniemy walczyć z ograniczeniami dotyczącymi daty lub kosztów, będziemy wiedzieć, od czego zacząć cięcia na liście (u dołu listy)
+    - Jak już zwróciłem uwagę, my, ludzie, jesteśmy w tym absolutnie beznadziejni. Ale, jak się okazuje,  j e s t e ś m y  dobrzy w określaniu wielkości  w z g l ę d n y c h. Wporównywaniu jednego rozmiaru do drugiego. W wyłapywaniu różnic, np. między małymi, średnimi i dużymi rozmiarami T-shirtów.
+        - Nasze umysły nie funkcjonują według płynnych przyrostów. Jesteśmy lepsi w dostrzeganiu przeskoków z jednego stanu do drugiego i nie łagodnych, lecz wyraźnych różnic
+    - Ludzie zakładają, że jeśli wszyscy pozostali zgadzają się z czymś, to ich własne zastrzeżenia są niemądre lub wynikają z niedoinformowania; nie chcą wypaść głupio na tle grupy. Pamiętajmy, że ten syndrom grupowego myślenia nie jest indywidualną wadą; jest ludzką wadą
+        - Efekt ten jest tłumaczony w literaturze jako „kaskada informacyjna” lub kula śnieżna
+        - Kaskada informacyjna pojawia się, gdy optymalnym zachowaniem poszczególnych osób obserwujących działania poprzedników jest naśladowanie ich zachowań bez wzięcia pod uwagę własnej wiedzy
+    - Inną dobrze znaną przyczyną zasadniczego problemu może być to, co nazywamy „efektem halo”
+        - gdy pojedyncza cecha wpływa na postrzeganie przez ludzi innych cech, niezwiązanych z tą pierwszą
+    - Planning poker
+        - Pomysł jest prosty. Każda osoba dostaje zestaw kart z tak interesującymi liczbami Fibonacciego – 1, 2, 3, 5, 8, 13 itd. Każdy element, który trzeba oszacować, zostaje przeniesiony na stół. Następnie każdy uczestnik wyciąga kartę, która według niego odwzorowuje właściwy nakład pracy i kładzie ją wartością do góry na stole. Wszyscy odwracają karty jednocześnie
+        - Jeżeli liczby na każdej karcie mieszczą się w zakresie trzech wyrazów ciągu Fibonacciego od siebie (mały rozrzut; powiedzmy piątka, dwie ósemki oraz trzynaście), zespół jedynie dodaje wszystkie liczby, liczy średnią (w tym przypadku 8,5) i przechodzi do następnego elementu
+        - Trzeba pamiętać, że mówimy o  o s z a c o w a n i a c h, a nie o ścisłych harmonogramach. I to o oszacowaniach, które dotyczą małych fragmentów projektu
+        - Jeśli wartości na kartach mają rozrzut większy niż  t r z y  wyrazy ciągu, to wtedy osoby z kartą najwyższą i najniższą tłumaczą swoją decyzję. Następnie rozgrywamy kolejną rundę pokera
+        - Zespół szybko kładzie nowe karty. Teraz trójka zamienia się w ósemkę, a pozostałe karty zostają bez zmian. Wyniki są wystarczająco bliskie, więc dodaje się je, uśrednia i przechodzi do następnego zadania.
+    - Niezwykle istotne jest, że oszacowania dokonuje zespół, który faktycznie wykonuje pracę, a nie jacyś specjaliści od szacunków „idealnych”
+    - Historyjki zamiar zadań 
+        - Gdy tworzymy listę rzeczy do zrobienia, aż się prosi, aby ułożyć ją na wzór tej zrobionej przeze mnie przed ślubem Alexa: kościół, kwiaty, kapłan, jedzenie itd. Problem polega jednak na tym, że jeżeli wykonanie którejś pozycji zlecimy zespołowi niezbyt mocno angażującemu się w wybór pomiędzy białymi różami a stokrotkami, to możemy nie dostać wyników, których oczekujemy.
+        - Ile razy dostaliście w pracy zadanie, a nie rozumieliście, dlaczego macie je wykonać?
+        - Robicie to, ale nie wiecie,  p o   c o  macie to zrobić. I dlatego można dostarczyć złych danych, źle zinterpretować pytanie lub po prostu się zniechęcić, dostając robotę, która wydaje się być bezcelowa
+        - Jeżeli jesteś menedżerem, może cię zaskoczyć, że twoi ludzie nie rozumieją od razu, że zastanawiasz się nad zamykaniem małych sklepów, a otwieraniem dużych.
+        - Problem tkwi w tym, że nie dostajemy lub nie dajemy wystarczających informacji, aby prawidłowo wykonać pracę. Ludzie myślą w sposób narracyjny, opowiadają historie. W taki sposób pojmujemy świat
+        - Zatem pierwszą rzeczą, o której trzeba pomyśleć przy analizie zadania, jest pełniona rola, np. klient, panna młoda, czytelnik, pracownik. Przez czyj pryzmat mamy patrzeć, tworząc daną rzecz, podejmując decyzję lub dostarczając produkt?
+        - Następnie trzeba pomyśleć o tym, co chcemy zrobić najpierw. W tym miejscu zwykle zaczynamy i kończymy. Ale to zaledwie środek procesu, według którego powinniśmy podążać
+        - Wreszcie trzeba pomyśleć o motywacji.  D l a c z e g o  dana osoba chce określonej rzeczy? Jak nasz produkt będzie służyć temu konkretnemu klientowi i czy go zadowoli? W pewnym sensie to najważniejsze. Motywacja wszystkiemu przydaje barw.
+        - Ale najważniejszym pytaniem, na które nie ma odpowiedzi na tym rysunku, jest  d l a c z e g o
+        - W tym punkcie, dysponując bardziej konkretnymi informacjami, członkowie zespołu mogą pomyśleć o całkowicie innym sposobie wykonania. Nawet jeżeli tych naprawdę przydatnych przesłanek nie brał pod uwagę kapitan. 
+        - Zanim zatem uszeregujemy to, co należy zrobić dla naszego biznesu, musimy zdefiniować postać – użytkownika, klienta – osobę, która będzie korzystać z tego, co zrobimy. Trzeba wiedzieć, co lubi, a czego nie, znać jej pasje, entuzjazm, frustracje i radości. I w efekcie – zrozumieć jej motywacje. W jaki sposób nasza postać opisuje swoje pragnienia? Dlaczego potrzebuje samochodu?
+    - Pisanie historyjki
+        - Wyobraźmy sobie taką, dotyczącą Amazon.com: „Jako klient, chcę korzystać z usług największej na świecie księgarni internetowej, abym w każdej chwili mógł kupić każdą książkę, której potrzebuję”. To, oczywiście, skrótowy opis Amazona, i zbyt ogólny, abyśmy faktycznie mogli z niego skorzystać. Trzeba tę historyjkę podzielić. Na mniejsze części.
+        - Historyjki dla księgarni internetowej można napisać tak:
+        - „Jako klient, chcę mieć możliwość przeglądania książek według gatunków, abym mógł znaleźć typ, jaki lubię”.
+        - „Jako klient, chcę wkładać książkę do koszyka, abym mógł ją kupić”.
+        - „Jako menedżer produktu, chcę mieć możliwość śledzenia zakupów klientki, abym w każdej chwili mógł zaproponować jej określone książki na podstawie jej ostatnich zakupów”.
+        - Nad takimi właśnie historiami zastanawia się zespół. Może dyskutować nad konkretnym sposobem ich implementacji. Są one wystarczająco szczegółowe, by można było na ich podstawie podjąć działania, choć nie wskazują  j a k.
+        - Pamiętajmy, że o tym decyduje zespół! Natomiast o tym, co zostanie zrobione, decyduje wartość biznesowa przedsięwzięcia
+        - Zbiór historyjek (które w naszym przypadku składają się na ideę księgarni internetowej) często nazywamy „epikiem” – opowieścią zbyt obszerną, aby ją zrealizować, ale obejmującą szereg krótszych historyjek, składających się na jeden pomysł
+        - każda gotowa historyjka musi spełniać kryteria INVEST. Musi być:
+            - Independent (niezależna) – możliwa do realizacji sama w sobie. Nie powinna być zależna od innej historyjki.
+            - Negotiable (negocjowalna) – zanim zaczniemy ją wykonywać, musimy mieć możliwość jej poprawienia. Możliwość zmiany musi być cechą wbudowaną.
+            - Valuable (wartościowa) – w rzeczywistości ma dostarczać wartości klientowi lub interesariuszowi.
+            - Estimable (możliwa do oszacowania) – musi istnieć możliwość określenia jej rozmiaru.
+            - Small (mała) – czyli taka, którą można łatwo oszacować i zaplanować. Jeżeli jest zbyt długa, trzeba ją poprawić lub podzielić na mniejsze fragmenty.
+            - Testable (sprawdzalna) – musi mieć powiązany ze sobą test, który ma przejść, aby zostać zrealizowana. Ten test trzeba napisać przed jej wykonaniem.
+        - Dla każdej historyjki, którą się zajmujemy, powinna istnieć zarówno „definicja gotowości” (np. „Czy spełnia kryteria INVEST?”), jak i „definicja ukończenia” (np. „Jakie warunki muszą być spełnione, jakie testy trzeba zaliczyć, aby uznać pracę za zakończoną?”)
+    - Planowanie
+        - W metodzie Scrum ten rodzaj planowania występuje w każdym sprincie, podczas spotkania nazywanego „planowaniem sprintu”. Wszyscy się schodzą, patrzą na listę historii do wykonania i każdy mówi: „OK, co możemy osiągnąć w tym sprincie? Czy te historie są gotowe? Czy mogą być ukończone do zakończenia tego cyklu? Czy możemy potem zademonstrować je klientowi, aby dowieść ich rzeczywistej wartości?
