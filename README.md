@@ -300,3 +300,37 @@
         - Dla każdej historyjki, którą się zajmujemy, powinna istnieć zarówno „definicja gotowości” (np. „Czy spełnia kryteria INVEST?”), jak i „definicja ukończenia” (np. „Jakie warunki muszą być spełnione, jakie testy trzeba zaliczyć, aby uznać pracę za zakończoną?”)
     - Planowanie
         - W metodzie Scrum ten rodzaj planowania występuje w każdym sprincie, podczas spotkania nazywanego „planowaniem sprintu”. Wszyscy się schodzą, patrzą na listę historii do wykonania i każdy mówi: „OK, co możemy osiągnąć w tym sprincie? Czy te historie są gotowe? Czy mogą być ukończone do zakończenia tego cyklu? Czy możemy potem zademonstrować je klientowi, aby dowieść ich rzeczywistej wartości?
+    - Poznaj swoją szybkość
+        - Pod koniec tygodnia policzymy wszystkie ukończone historie, zsumujemy punkty (czyli oceny) i w efekcie otrzymamy wartość, która powie nam, jak szybko działa zespół. A gdy poznamy szybkość, będziemy mogli sprawdzić, ile historyjek pozostało do zrobienia i ile punktów są warte. Słowem – dowiemy się, kiedy skończymy.
+        - Żebym mógł określić szybkość zespołów, wszystkie muszą rozpocząć pracę. Powiem tak: w ciągu sześciu tygodni podam panu datę zakończenia i nie będzie to data, której pan oczekuje
+        - kluczem do przyśpieszenia jest pozbycie się marnotrawstwa
+        - Przeszkody tego rodzaju wydają się nie do pokonania. Jak często rozglądaliście się po swoim miejscu pracy z refleksją: „Robimy to w taki sposób; zawsze tak robiliśmy, choć każdy wie, że to głupie”?. Z jakiegoś powodu ludzie uważają zmiany w kulturze korporacyjnej za niemożliwe. Uważałem tak również ja, zwłaszcza w przypadku dużych firm ze skostniałą kulturą i regułami
+        - Bo rzeczywiście, firma zrezygnowała z pracowników, którzy nie potrafili się przestawić. Nie, nie dlatego, że byli niekompetentni, ale dlatego, że zatrzymywali przy sobie informacje i wiedzę dla własnych korzyści. Chcieli stać się niezbędni, zamiast współpracować dla dobra zespołu i organizacji. Zmiana kultury jest jednak tym, co pozwala na prawdziwą perfekcję
+    - Szczęście
+        - Szczęście potrafią zapewnić nam zajęcia. Metoda Scrum,  z a s t o s o w a n a   w e   w ł a ś c i w y   s p o s ó b, sprawi, że osiągną je pracownicy, klienci, menedżerowie i udziałowcy (zwykle właśnie w tej kolejności)
+        - podczas popychania ciała, umysłu i ducha do granic. To  w t e d y  byli najszczęśliwsi, odczuwali prawdziwą radość. I chcą tego doświadczyć ponownie
+            - Nie jesteśmy nagradzani za to, że cieszy nas sama podróż, lecz za jej  zakończenie  uwieńczone sukcesem. Społeczeństwo nagradza wyniki, a nie procesy, przybycie na miejsce, a nie podróż
+        - szczęście jest niezwykle istotne dla biznesu. Jest lepszym sposobem przewidywania dochodu niż większość miar, które stosuje dyrektor naczelny
+        - Ludzie szczęśliwi osiągają lepsze wyniki – w domu, w pracy, w życiu. Mają więcej pieniędzy, lepszą pracę, kończą studia i żyją dłużej. To absolutnie niezwykłe. Niemal w każdym aspekcie są po prostu lepsi w tym, co robią.
+        - Nie trzeba zmieniać czyjegoś życia radykalnie, aby stan szczęśliwości trwał przynajmniej jakiś czas. Oczywiście, więcej szczęścia daje bardziej spektakularny efekt, jednak komunikat, który pragnę przekazać, jest prosty: nawet niewielkie   gesty mogą mieć wielki wpływ
+        - Nie wystarczy osiągnięcie pewnego poziomu wydajności i utrzymanie go; sztuka w tym, aby stale analizować zachodzące procesy i poprawiać je nieustannie. Wprawdzie nigdy nie osiągniemy perfekcji, ale liczy się marsz w jej kierunku.
+        - W metodzie Scrum jest to sprawdzane na końcu każdego sprintu. To tzw. retrospektywa sprintu.
+        - W języku japońskim słowo kaizen oznacza właśnie „poprawę”. Jaką – niewielką – można wprowadzić od razu? Co sprawi, że wszystko pójdzie lepiej?
+        - A oto element kluczowy. Zespół bierze jedno podstawowe ulepszenie i ustala, że w kolejnym sprincie będzie to priorytet z t e s t a m i   a k c e p t a c j i. Jak można dowieść, że ulepszenie zostało wprowadzone? Trzeba zdefiniować, czym jest sukces, w sposób konkretny, możliwy do zrealizowania, aby kolejna retrospektywa sprintu z łatwością mogła dowieść, czy uzyskaliśmy kaizen.
+        - Pozostało mi zadawać moim ludziom wciąż to samo pytanie Co sprawi, że będziesz szczęśliwy? i skupiać się na dostarczeniu im tego, czego pragną.
+    - Transparentność
+        - Jednym z elementów metody Scrum, nierzadko stanowiącym preludium do autonomii, mistrzostwa i celu, jest przejrzystość
+        - Żadnej tajemnej kabały, ukrytych agend, niczego za kulisami! Zbyt często w firmie nie jest jasne, kto nad czym pracuje i jak praca poszczególnych osób posuwa do przodu realizację celów organizacji
+        - Nic nie może się dziać za zamkniętymi drzwiami. Nic do ukrycia. Dlatego właśnie w metodzie Scrum każdemu wolno uczestniczyć w dowolnym spotkaniu. Każdy interesariusz może obserwować codzienne spotkanie oraz wziąć udział w ocenie.
+        - Powiedziałem pracownikom, że każdy ma wiedzieć wszystko. Ci ludzie byli tak przyzwyczajeni, że jakiekolwiek pomiary służą temu, aby im dokopać, że wspięcie się na nowy poziom przejrzystości potraktowali nieufnie. Bali się, że będą traktowani jeszcze gorzej  
+        - Chcę, żeby każda osoba w firmie jednoczyła się z resztą w imię wspólnego celu. Atomizacja ludzi w informacyjnych silosach po prostu spowalnia wszystkich, a ponadto sprzyja podejrzeniom i brakowi zaufania. Dzieli firmę na tych dużych, którzy mają wiedzę, oraz chłopów pańszczyźnianych, którzy wykonują polecenia z tajemniczej listy, której nie są w stanie pojąć. Gówno prawda. Jeżeli nie możesz zaufać ludziom, których zatrudniasz do wspólnej pracy, to zatrudniasz niewłaściwe osoby. Tworzysz system skazany na porażkę
+    - Tablica Scrum
+        - Najbardziej radykalną reprezentacją tego pomysłu jest tablica Scrum, narzędzie obecne w każdym zespole Scruma na całym świecie
+        - każdy może wejść do pokoju, popatrzeć na tablicę i dowiedzieć się, jak radzi sobie zespół
+        - Ponieważ członkowie zespołu wiedzą, co zostało wykonane, i co pozostało do wykonania, mogą regulować swoje działania. Wiedzą, co mają robić, mogą zobaczyć, czy koledzy mają kłopoty i czy zadanie nie pozostaje zbyt długo w kolumnie „Wykonywane”. Zespół może się sam organizować, aby przezwyciężyć problemy, które stają się oczywiste, gdy wszystko jest przejrzyste
+        - ludzie pragną rozwoju, aby lepiej wykonywać powierzone im zadania oraz znaleźć inne dziedziny, w których mogą być dobrzy. Pomysł polega na tym, że podnoszenie kwalifikacji motywuje. Danie pracownikom szansy na określenie, gdzie najlepiej pasują, pozwala firmie Zappos utrzymać ich w stanie zadowolenia, zaangażowania i pobudzenia
+
+
+
+
+
