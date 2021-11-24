@@ -329,7 +329,14 @@
         - każdy może wejść do pokoju, popatrzeć na tablicę i dowiedzieć się, jak radzi sobie zespół
         - Ponieważ członkowie zespołu wiedzą, co zostało wykonane, i co pozostało do wykonania, mogą regulować swoje działania. Wiedzą, co mają robić, mogą zobaczyć, czy koledzy mają kłopoty i czy zadanie nie pozostaje zbyt długo w kolumnie „Wykonywane”. Zespół może się sam organizować, aby przezwyciężyć problemy, które stają się oczywiste, gdy wszystko jest przejrzyste
         - ludzie pragną rozwoju, aby lepiej wykonywać powierzone im zadania oraz znaleźć inne dziedziny, w których mogą być dobrzy. Pomysł polega na tym, że podnoszenie kwalifikacji motywuje. Danie pracownikom szansy na określenie, gdzie najlepiej pasują, pozwala firmie Zappos utrzymać ich w stanie zadowolenia, zaangażowania i pobudzenia
-
+    - Samozadowolenie przeszkadza
+        - Trzeba odsiewać ludzi, którzy myślą, że praca w szczęśliwym miejscu oznacza bezczynność. Chcemy ludzi, którzy kierują się radością.
+        - jedyna droga do szczęścia pracownika, przynosząca także korzyści udziałowcom, prowadzi przez poczucie spełnienia wynikające z dobrego wykonania ważnej pracy. Powinniśmy aspirować, aby nie tylko „uszczęśliwiać” pracowników, lecz także pomagać im w osiąganiu rzeczy wielkich. Krótko mówiąc, należy zapracować na to, aby personel z pasją wychwalał misję i powodzenie firmy, pomagając pozyskać takich samych rzeczników wśród klientów
+        - Szczęśliwi pracownicy ciężej pracują, ale nie tylko nie odchodzą z firmy, a przyciągają innych, o podobnej motywacji
+        - Wspólną cechą osób „kwitnących” jest to, o czym piszę w tym rozdziale – każda z nich ma żywotność i pasję, próbuje osiągnąć perfekcję w swojej dziedzinie niezależnie od tego, czy jest członkiem załogi samolotu, czy pomocnikiem kelnera
+        - Co mogą zrobić dla firmy, aby stworzyć atmosferę, w której ludzie rozkwitają? Menedżerowie – zachęcać do autonomii przez pozwalanie ludziom na podejmowanie samodzielnych decyzji. Mogą też zapewnić wszystkim pracownikom wiedzę o wszystkim, co się dzieje w firmie, gdyż „wykonywanie pracy w próżni informacyjnej jest uciążliwe i nieinspirujące”. Zarządzający powinni też wykazywać zero tolerancji dla niestosownego zachowania i nie pozwalać, aby pracownik zatruwał kulturę przedsiębiorstwa przez nadużycia i brak szacunku. Wreszcie powinni zapewniać szybkie i bezpośrednie sprzężenie zwrotne
+        - „Rozsądny głupiec” to osoba, która zadaje niewygodne pytania lub wskazuje na niewygodne prawdy. Tacy ludzie nie są zwykle mile widziani, gdyż uważa się ich za rozrabiaczy, którzy nie należą do zespołu, ale warto ich chronić i wykorzystywać
+        - Jedną z zalet Scruma jest fakt, że pozwala on szybko dostrzec rzeczy niewygodne. W tradycyjnie zarządzanych zespołach i organizacjach jest wręcz przeciwnie – mogą one beztrosko spaść z urwiska i zastanawiać się potem, co zrobiono źle. A tymczasem po prostu czekano zbyt długo na informacje zwrotne, tak z rynku, jak i od siebie nawzajem
 
 
 
