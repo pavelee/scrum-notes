@@ -338,6 +338,14 @@
         - „Rozsądny głupiec” to osoba, która zadaje niewygodne pytania lub wskazuje na niewygodne prawdy. Tacy ludzie nie są zwykle mile widziani, gdyż uważa się ich za rozrabiaczy, którzy nie należą do zespołu, ale warto ich chronić i wykorzystywać
         - Jedną z zalet Scruma jest fakt, że pozwala on szybko dostrzec rzeczy niewygodne. W tradycyjnie zarządzanych zespołach i organizacjach jest wręcz przeciwnie – mogą one beztrosko spaść z urwiska i zastanawiać się potem, co zrobiono źle. A tymczasem po prostu czekano zbyt długo na informacje zwrotne, tak z rynku, jak i od siebie nawzajem
 
+    - Priorytety
+        - Jeżeli koncentrujemy się wyłącznie na tym, co można stworzyć, to możemy w końcu robić coś, czego nikt tak naprawdę nie chce, nawet jeśli nas to pasjonuje. Gdy skupimy się tylko na tym, co można sprzedać, możemy obiecać rynkowi rzeczy, których nie da się zrobić. Jeżeli tworzymy to, co można sprzedać, lecz robimy to bez zaangażowania, w rezultacie naszej pracy powstanie mierność
+        ![priorytet](https://github.com/pavelee/scrum_about_pl/blob/main/asset/priorytet.png?raw=true)
+        - prawdziwa moc Scruma leży w jego gotowym rejestrze rzeczy do zrobienia, który ma określoną wielkość i określone priorytety. Z tego powodu wdrożył metodę w swojej grupie kapitałowej i uważa, że zyskał decydującą przewagę konkurencyjną.
+            - Pierwszą sprawą, o jakiej trzeba wiedzieć, gdy implementujemy Scruma, jest utworzenie rejestru. Rejestr może mieć setki zapisów lub zawierać tylko kilka rzeczy, które należy określić na samym początku
+            - Podstawowa idea rejestru jest taka, że powinien zawierać wszystko, co może zawierać produkt. Nigdy nie da się faktycznie zbudować wszystkiego, ale chcemy przecież mieć kompletne zestawienie tego, co  m o ż e  znaleźć się w naszej wizji produktu
+        - Najważniejsza jednak jest decyzja, co robić najpierw. Trzeba zadać sobie następujące pytania: Które elementy mają największy wpływ na biznes? Które są najważniejsze dla klienta? Które pozwalają zarobić najwięcej pieniędzy, a które najłatwiej wykonać?
+
 
 
 
