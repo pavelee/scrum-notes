@@ -345,6 +345,44 @@
             - Pierwszą sprawą, o jakiej trzeba wiedzieć, gdy implementujemy Scruma, jest utworzenie rejestru. Rejestr może mieć setki zapisów lub zawierać tylko kilka rzeczy, które należy określić na samym początku
             - Podstawowa idea rejestru jest taka, że powinien zawierać wszystko, co może zawierać produkt. Nigdy nie da się faktycznie zbudować wszystkiego, ale chcemy przecież mieć kompletne zestawienie tego, co  m o ż e  znaleźć się w naszej wizji produktu
         - Najważniejsza jednak jest decyzja, co robić najpierw. Trzeba zadać sobie następujące pytania: Które elementy mają największy wpływ na biznes? Które są najważniejsze dla klienta? Które pozwalają zarobić najwięcej pieniędzy, a które najłatwiej wykonać?
+        - Trzeba zdawać sobie sprawę, że na liście jest wiele rzeczy, których nigdy nie zrealizujemy, ale priorytetem są te, które zapewniają największą wartość połączoną z najmniejszym ryzykiem
+        - Za pomocą rozwoju przyrostowego i dostarczania produktu według metody Scrum chcemy zacząć od rzeczy, które od razu przyniosą nam dochód, skutecznie eliminując z projektu niepewność
+        - Chcemy to zrobić na poziomie funkcji i rozpocząć dostarczanie wartości naszym klientom jak najszybciej się da. Chcemy czegoś, co jest całkowicie ukończone. Co można pokazać. To może być zaledwie mała część większego projektu, ale powinna być w sposób oczywisty gotowa
+            - Jeżeli malujemy dom, być może pierwszą ukończoną rzeczą będzie uporządkowany salon
+        - 20% funkcjonalności zapewnia 80% wartości. Pomyślcie o tym przez chwilę. We wszystkim, co kupujemy, większość wartości, większość tego, czego chcą ludzie, to zaledwie piąta część tego, co zostało wytworzone
+            - Sztuczka Scruma polega na określeniu, jak wytworzyć te 20% w pierwszej kolejności
+            - W tradycyjnym procesie powstawania produktu zespoły przed wykonaniem całości zadania nie wiedzą, co je stanowi. A to oznacza, że całe 80% ich wysiłku idzie na marne
+        - Określamy, gdzie można dostarczyć największą wartość jak najmniejszym wysiłkiem, i robimy to od ręki. Następnie definiujemy kolejny przyrost wartości. I kolejny. Szybciej, niż myślicie, będziemy mieć zrobione lub dostarczone coś z rzeczywistymi, możliwymi do zaprezentowania rezultatami
+        - Product Owner
+            - Za to decydują o wizji samochodu i o tym, jak będzie on robiony – przekonując, a nie stosując przymus.
+            - Naczelny inżynier nie może po prostu  p o w i e d z i e ć, że coś ma być zrobione w określony sposób. Musi przekonać, namówić i pokazać, że dana metoda jest właściwa i najlepsza
+            - Podzieliłem zatem tę rolę na dwie mniejsze, czyniąc Scrum Mastera odpowiedzialnym za „jak”, a Właściciela Produktu za „co”
+            - A Właściciel Produktu musi dostarczyć zespołowi opinie od klienta przy każdym sprincie. Musi poświęcać połowę czasu pracy na rozmowy z ludźmi kupującymi produkt (uzyskując opinię zwrotną o ostatniej wersji przyrostowej i o wartości, jaka została dostarczona), a drugą połowę spędzać z zespołem przy tworzeniu rejestru (pokazując ludziom, co klienci cenią, a czego nie).
+            - Gdy wybieracie Właściciela Produktu, wybierzcie kogoś, kto potrafi wejść w buty użytkownika
+            - Cechy
+                - Musi się znać na dziedzinie
+                    - rozumieć proces realizowany przez zespół na tyle dobrze, aby wiedzieć, co może być zrobione. I równie ważne, co nie może
+                    - rozumieć to  c o ś  na tyle dobrze, aby wiedzieć, jak przełożyć to, co można zrobić, na prawdziwą, znaczącą wartość
+                    - powinien znać rynek na tyle dobrze, aby wiedzieć, co zrobi różnicę
+                - musi być upoważniony do podejmowania decyzji
+                    - powinien mieć swobodę w decydowaniu o tym, jaka będzie wizja produktu i co trzeba zrobić, aby uzyskać rezultat
+                    - Powinien być odpowiedzialny za wyniki, ale pozwalać zespołowi na podejmowanie własnych decyzji
+                - musi pozostawać do dyspozycji zespołu, aby tłumaczyć, jakie potrzeby należy spełnić i dlaczego
+                    - Choć jest on ostatecznie odpowiedzialny za rejestr, musi prowadzić z zespołem ciągły dialog
+                    - Często wiedza zespołu ma wpływ na decyzje, jakie powinien podjąć. Musi być solidny, konsekwentny i dostępny. Bez dostępu do niego zespół nie będzie wiedział, co robić lub w jakiej kolejności. Zespół opiera się na Właścicielu Produktu w kwestii wizji, a także – co ważne – danych z rynku. Jeżeli Właściciel Produktu nie jest dostępny dla zespołu, cały proces może się rozpaść
+                - musi być odpowiedzialny za wartość
+                    - oceniam Właściciela Produktu według tego, ile dochodu dostarcza zespół na każdy „punkt” wysiłku
+                    - Najważniejsze to zdecydować, co jest miarą wartości, i uczynić Właściciela Produktu odpowiedzialnym za jej wzrost
+        - Petla OODA
+            - Połączenie obserwacji i orientacji prowadzi nas do „decyzji”, a ta z kolei do „działania”. Kolejna pętla to ponowna obserwacja wyników własnych działań oraz działań oponenta lub – w świecie biznesu – obserwacja reakcji rynku
+            ![ooda](https://github.com/pavelee/scrum_about_pl/blob/main/asset/ooda.png?raw=true)
+        - Prototypowanie
+            - Otóż najważniejsze jest znalezienie fragmentów, które faktycznie zawierają jakąś wartość – na tyle dużą, aby można było otrzymać realną opinię na ich temat i zareagować na bieżąco
+            - konstruowanie w pełni funkcjonalnych pojazdów przed ich wypuszczeniem na rynek, a następnie konsekwentne wprowadzanie poprawek aż do osiągnięcia ideału, który zechcemy sprzedać klientowi – może prowadzić do niezwykle szybkich zmian
+            - Zatem najważniejsze – nie zaczynać od gotowego projektu! Lepiej zbudować funkcjonalny prototyp i poprawić ewentualne niedoróbki
+            - Całość zasadza się na tym, że im prędzej otrzymamy rzeczywistą opinię, tym szybciej zrobimy lepszy samochód.
+
+
 
 
 
