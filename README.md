@@ -381,6 +381,34 @@
             - konstruowanie w pełni funkcjonalnych pojazdów przed ich wypuszczeniem na rynek, a następnie konsekwentne wprowadzanie poprawek aż do osiągnięcia ideału, który zechcemy sprzedać klientowi – może prowadzić do niezwykle szybkich zmian
             - Zatem najważniejsze – nie zaczynać od gotowego projektu! Lepiej zbudować funkcjonalny prototyp i poprawić ewentualne niedoróbki
             - Całość zasadza się na tym, że im prędzej otrzymamy rzeczywistą opinię, tym szybciej zrobimy lepszy samochód.
+            - Myśląc o budowaniu czegokolwiek, nie zakładajmy, że aż do samego końca nie wytworzymy niczego wartościowego. Spróbujmy pomyśleć o planie minimum
+                - C o   j e s t   r z e c z ą   a b s o l u t n i e   n a j m n i e j s z ą ,   j a k ą   m o g ę   z b u d o w a ć ,   b y   d o s t a r c z y ł a   j a k ą ś   w a r t o ś ć   k l i e n t o w i?
+            - Wyjściem awaryjnym, w przypadku gdy nie możemy dać czegokolwiek klientowi  z e w n ę t r z n e m u, jest ustalenie odbiorcy  w e w n ę t r z n e g o, np. Właściciela Produktu, który może wcielić się w jego rolę. Pokazujemy mu wszystko to, co – jak sądzimy – pomoże nam uzyskać przydatną opinię: fragmenty planu rozbudowy nieruchomości, projekt rozbudowy fabryki, schemat przebudowy układu hamulcowego, projekt kampanii usług wolontariatu. Cokolwiek.
+            - najszybciej dostarczyć największej wartości. Rejestr można uporządkować na wiele milionów sposobów, ale ten pożądany zapewnia nasze 20% funkcjonalności, które wniesie 80% wartości tak szybko, jak to możliwe
+            - Nasze początkowe założenia dla pierwszego sprintu prawie na pewno nie będą właściwe, ale to i tak w danym momencie próba najlepsza
+            - Trzeba koniecznie pamiętać, że nasza kolejność zmienia się nieustannie – właściwa w jednym tygodniu nie będzie taka sama w następnym. Zmienia się nasze środowisko. Uczymy się coraz to nowych rzeczy
+                - Najważniejsze to uznać tę niepewność i zaakceptować fakt, że nasza aktualna kolejność (a co za tym idzie – wartość) jest związana z pewnym konkretnym momentem. To się zmieni. I znów. I znów.
+            - Jedynym złym nawykiem, jaki może pojawić się w firmie ze względu na stale zmieniające się potrzeby rynku i brak wiedzy menedżerów o prawdziwych potrzebach, jest uznawanie za priorytet wszystkiego. Wtedy menedżerowie na pewno nie dowiedzą się, co oznacza największa wartość
+            - Chcemy to zrobić z czymś, co daje przynajmniej  m a l u t k i   f r a g m e n t  wartości. Nazwałem go „minimalnym realnym produktem” (Minimum Viable Product, MVP). To powinno być coś, co po raz pierwszy pokażemy publicznie
+                - Musimy przygotować ten produkt dla ludzi  t a k   s z y b k o ,   j a k   t o   m o ż l i w e! Zyskamy opinie, których potrzebujemy, aby wprawić w ruch naszą pętlę decyzji i ustalania priorytetów
+                - Cała powyższa procedura pozwala nam w pierwszej kolejności tworzyć funkcje, które cenią użytkownicy, i wypuścić produkt, gdy zostanie wykonane około 20% pracy
+            - Każda godzina poświęcona na zbędne czynności jest straconą możliwością uzyskania wartości.
+            - Za pomocą procesu z wersjami przyrostowymi, w czasie o połowę krótszym, w którym wykonalibyśmy połowę funkcji naszego początkowego produktu lub projektu, wypuściliśmy 200% wartości. I to jest prawdziwa siła Scruma
+            - A gdy zespół to wykona, uświadamiasz sobie, że w rzeczywistości stworzył najbardziej elegancki budzik, jaki kiedykolwiek zrobiono. To iBudzik wśród budzików. Jest piękny i robi jedną rzecz, ale naprawdę dobrze. Zamiast kazać zespołowi wbudowywać weń następne funkcje, wypuszczamy zegarek na rynek i zaczynamy pracę nad następnym projektem. Wniosek? Zespół może dostarczyć większą wartość, robiąc coś innego
+            - z czego księgowi nie zdają sobie sprawy, to fakt, że tworzą w ten sposób system przeznaczony do odmawiania ludziom czegoś, czego oni rzeczywiście chcą. Próbują ograniczyć koszty, a w efekcie ograniczają wydatki na naukę, innowację i kreatywność
+                - tradycyjne zarządzanie projektem powstrzyma nas przed zmianami. Jest zorganizowane w taki sposób, aby uniemożliwić szybsze dostarczenie wartości.
+            ![przyrost](https://github.com/pavelee/scrum_about_pl/blob/main/asset/przyrost.png?raw=true)
+            ![krzywa](https://github.com/pavelee/scrum_about_pl/blob/main/asset/krzywa.png?raw=true)
+        - Ryzyko
+            - Trzema najbardziej powszechnymi rodzajami ryzyka są: ryzyko rynkowe, ryzyko techniczne oraz ryzyko finansowe. Ujmując rzecz inaczej: Czy ludzie chcą tego, co tworzymy? Czy rzeczywiście możemy to zrobić? Czy faktycznie możemy sprzedać to, co stworzymy?
+                - Na temat ryzyka rynkowego napisałem dużo. Scrum pomaga je zmniejszać, kładąc nacisk na dostarczanie etapami, co z kolei pozwala szybciej zaprezentować produkt klientom.
+                    - Często jest to coś, co klient  c h c i a ł   m i e ć  na początku procesu. Jednak w rzeczywistości ludzie nie wiedzą, czego chcą, dopóki tego nie wypróbują
+                - Ryzyko techniczne to ciekawe zagadnienie. Pytanie: „Czy rzeczywiście możliwe jest zbudowanie tego, czego chce klient?”, jest trudne, zwłaszcza gdy tworzymy coś fizycznego, co wymaga fabryk, oprzyrządowania i wstępnych inwestycji
+
+
+
+
+
 
 
 
