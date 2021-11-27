@@ -403,7 +403,29 @@
             - Trzema najbardziej powszechnymi rodzajami ryzyka są: ryzyko rynkowe, ryzyko techniczne oraz ryzyko finansowe. Ujmując rzecz inaczej: Czy ludzie chcą tego, co tworzymy? Czy rzeczywiście możemy to zrobić? Czy faktycznie możemy sprzedać to, co stworzymy?
                 - Na temat ryzyka rynkowego napisałem dużo. Scrum pomaga je zmniejszać, kładąc nacisk na dostarczanie etapami, co z kolei pozwala szybciej zaprezentować produkt klientom.
                     - Często jest to coś, co klient  c h c i a ł   m i e ć  na początku procesu. Jednak w rzeczywistości ludzie nie wiedzą, czego chcą, dopóki tego nie wypróbują
+                    - Podobnie postępuje Apple, tworząc nierzadko około tuzina funkcjonujących prototypów, zanim odpali petardę, by sprawdzić, który jest najlepszy. Prototypowanie pozwala na szybkie przedstawianie różnych możliwości bez ogromnych inwestycji.
                 - Ryzyko techniczne to ciekawe zagadnienie. Pytanie: „Czy rzeczywiście możliwe jest zbudowanie tego, czego chce klient?”, jest trudne, zwłaszcza gdy tworzymy coś fizycznego, co wymaga fabryk, oprzyrządowania i wstępnych inwestycji
+                    - robiąc coś, co nazywamy „inżynierią równoległą opartą na zestawach” (set-based concurrent engineering). Mówiąc prosto, oznacza to „budowanie kilku różnych prototypów, aby zobaczyć, który z nich działa najlepiej, jeszcze przed rozpoczęciem pełnej produkcji”
+                - Ryzyko finansowe to czynnik, który powoduje upadek wielu firm. Tworzą coś, co jest świetne, ale nie mogą sprzedać tego za taką kwotę, by osiągnąć zysk
+                    - Scrum umożliwia biznesowi otrzymanie szybkiej odpowiedzi na pytanie: Czy robiąc to, zarobimy pieniądze? Dzięki jak najszybszemu zaprezentowaniu klientom wersji przyrostowych, dowiemy się, co oni cenią i za co są skłonni zapłacić. A jeśli nasze przewidywania są złe, możemy dokonać zmian
+                    - Co najwyżej stracimy czas i energię na kilka sprintów, w które zainwestowaliśmy, ale nie wydamy wielu milionów dolarów na zbudowanie skomplikowanej infrastruktury po to tylko, aby się dowiedzieć, że ludziom podoba się nasz produkt, tyle że nie aż tak, aby zapłacić za koszt jego wytworzenia.
+        - Kroki wdrożenia scruma
+### Ryzyko
+
+- Powszechne ryzyka w projekcie:
+    - ryzyko rynkowe - czy ludzie chca tego co tworzymy?
+        - w rzeczywistości ludzie nie wiedzą, czego chcą, dopóki tego nie wypróbują
+        - jak najszybsze zderzenie się z rzeczywisościa, MVP
+    - ryzyko techniczne - czy rzeczywiście możemy to zrobić?
+        - Prototypowanie pozwala na szybkie przedstawianie różnych możliwości bez ogromnych inwestycji
+    - ryzyko finansowe - czy faktycznie możemy sprzedać to, do stworzymy?
+        - Tworzymy coś, co jest świetne, ale nie możemy sprzedać tego za taką kwotę, by osiągnąć zysk
+        - jak szbko możemy sprawdzić żę klient zapłaci za 20% funkcjonalności
+
+### FAQ
+
+- Czemu SCRUM a nie Kanban?
+    - Ważne jest zrozumienie że oba podejścia to tylko implementacja zwinnej pracy, nie ma to takiego znaczenia co wykorzystujemy. Jest to tylko środek do celu, gdzie samym celem jest efektywna i satysfakcjonująca praca
 
 
 
