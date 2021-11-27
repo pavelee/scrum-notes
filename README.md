@@ -21,9 +21,6 @@
         - oderwanie od rzeczywistości prowadzi nas w złym kierunku
     - zbyt późne zderzenie z rzeczywistością
         - poprawienie wykrytych błędów jest znacznie bardziej kosztowne
-    - jest to praktykowane ponieważ nie znamy innego systemu
-        - inni tak robią
-        - biznes lubi przewidywalność i wizualizacje
     - nie odpowiedni system pracy prowadzi do porażki
         - problemem było planowanie z góry, założenie że nic się nie zmieni
         - nieefektywny
@@ -33,6 +30,9 @@
             - mikrozarządzania
             - zachowań pasywno-agresywnych
             - nadgodzin
+    - jest to praktykowane ponieważ nie znamy innego systemu
+        - inni tak robią
+        - biznes lubi przewidywalność i wizualizacje
 
 ![gantt](https://github.com/pavelee/scrum_about_pl/blob/main/asset/gantt.png?raw=true)
 
@@ -52,16 +52,40 @@
 
 ## SCRUM
 
-- Nazwa pochodzi z terminologii gry rugby   
-    - drużyn rugby i stwierdzili, że najlepsze z nich pracowały jak rugbyści w młynie (scrum) – gdy piłka jest przekazywana w obrębie drużyny przemieszczającej się wraz z nią przez boisko
-    - samoogranizacja
-    - samooptymalizacja
-    - to nie jest przekręt kierownictwa
-    - informacji zwrotnych dotyczących środowiska, można by osiągnąć wyższe poziomy efektywności
-    - można się nauczyć tylko w praktyce
-        - wymaga stałego wysiłku aby osiągnąc lepszy stan
-        - niemal natychmiast fabryka zaczęła produkować auta tak samo precyzyjne i niemal bezawaryjne jak japońskie. Ci sami ludzie, inny system
-    - Chodzi o określenie właściwych ram i odpowiedniej stymulacji, pozwalających ludziom dać wolność, szacunek i władzę do wzięcia spraw we własne ręce. Wielkości nie można narzucić; musi pochodzić od nas samych. Na szczęście żyje ona w nas wszystkich
+### Co to SCRUM?
+
+- Implementacja pracy zwinnej, czyli jak w praktyce zastosować zwinne podejście
+- Nazwa pochodzi z futbolu amerykańskiego
+    - Autor SCRUM'a zainspirował się artykułem szukającym przyczyny efektyności zespołów. Wspomniany artykuł używał analogii w postaci graczy futbolu amerykańskiego
+        - najlepsze z nich pracowały jak rugbyści w młynie (scrum) – gdy piłka jest przekazywana w obrębie drużyny przemieszczającej się wraz z nią przez boisko
+        - samooptymalizacja, adaptacja w czasie gry
+- Chodzi o określenie właściwych ram i odpowiedniej stymulacji, pozwalających ludziom dać wolność, szacunek i władzę do wzięcia spraw we własne ręce.
+- można się nauczyć tylko w praktyce
+
+### Road mapa i kamienie milowe
+
+### Tablica Agile
+
+### Sprint
+
+### Zespół
+
+### Właścicel Produktu (Product Owner)
+
+### Lider Zespołu (Scrum Master)
+
+### Wdrożenie SCRUM'a
+
+- Wybór właściciela Produktu (Product Owner)
+- Wybór zespołu
+- Wybór Lidera zespołu (Scrum Master)
+- Utworzenie Rejestru Produktu według priorytetów
+- Udoskanalanie i ocena Rejestru produktu
+- Planowanie sprintu
+- Praca musi być widoczna
+- Codzienna spotkania (Daily)
+- Ocena sprintu i wersja demo
+- Retrospektywa sprintu
 
 - Poszukiwanie sposobu na pracę
     - bardziej produktywną
