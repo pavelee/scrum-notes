@@ -61,19 +61,59 @@
         - samooptymalizacja, adaptacja w czasie gry
 - Chodzi o określenie właściwych ram i odpowiedniej stymulacji, pozwalających ludziom dać wolność, szacunek i władzę do wzięcia spraw we własne ręce.
 - można się nauczyć tylko w praktyce
+- Poszukiwanie sposobu na pracę
+    - bardziej produktywną
+    - szcześliwszą
+    - wspomagający, przyjemniejszy i uwzioślający stan
 
-### Road mapa i kamienie milowe
+### Podstawowe założenia
 
-### Tablica Agile
-
-### Sprint
+### Właścicel Produktu (Product Owner)
+### Lider Zespołu (Scrum Master)
 
 ### Zespół
 
-### Właścicel Produktu (Product Owner)
+### Road mapa i kamienie milowe
+- Potrzebujemy minmalnego planu
+    - Nie chcemy poświęcać zbyt dużo czasu na planownie
+- Szcujemy kiedy skończymy
+    - kamienie milowe są po to aby móc się zorientować jak szybko pracujemy
 
-### Lider Zespołu (Scrum Master)
+### Tablica Agile
+- Celem jest transparentność, tablica to tylko środek do celu
+- W praktyce tablice są wirtualne
+    - hybrydowa praca nie jest przyjazna fizycznej tablicy
 
+### Rejestr Produktu (Backlog)
+- Zawiera wszystko co jest do zrobienia
+    - od przygotowania prototypu projektu nowej deski rozdzielczej po testowanie kierunkowskazów
+    - nie ma limitu, może być ogromny
+- Rejestr jest sortowany po priorytetach
+    - Tematy na górze rejestru są brane przez zespół do realizacji
+### Historyjki (User Story)
+- ???
+
+### Sprint (przepieg, cykl, iteracja)
+- Podziel pracę na fragmenty, które możesz wykonać w regularnym, ustalonym, krótkim okresie
+    - Optymalnie: od jednego do czterech tygodni
+    - Istotne jest utrzymanie
+    - To jest to co nazywamy Sprintem
+- Na końcu każdego sprintu musi znaleźć się coś, co jest  gotowe. Coś, z czego można korzystać – do latania, jeżdżenia. Do czegokolwiek
+- Na początku sprintu zespół spotyka się i planuje sprint
+    - Decyduje ile pracy może wykonać w trakcie sprintu
+    - Wybiera z listy priorytetów tematy
+- Na koniec sprintu spotykamy się
+    - Analizujemy ile rzeczywiście udało się osiągnąć
+        - Pokazujemy co się udało osiągnąć
+        - Czy wzięli na swoje barki zbyt wiele i nie skończyli wszystkiego?
+        - Czy wzieli zbyt mało?
+        - Celem jest zrozumienie jak szybko pracuje grupa
+- Gdy zespół zobowiąże się do wykonania danego zadania, jest ono blokowane
+    - ingerowanie w działanie zespołu i rozpraszanie go drastycznie zmniejsza jego szybkość.
+- każdy czwartek siadają i przyglądają się potężnemu rejestrowi rzeczy do zrobienia, który obejmuje wszystko – od przygotowania prototypu projektu nowej deski rozdzielczej po testowanie kierunkowskazów
+        - Porządkują tę listę według priorytetów, a następnie zadają sobie pytanie: „Dobrze. Ile z tych rzeczy możemy zrobić w nadchodzącym tygodniu?”. Przez „zrobić” rozumieją „wykonać całkowicie”, czyli „na gotowo”. I wprowadzone funkcje działają. Samochód jeździ. I tak co tydzień. I w każdym sprincie.
+        - Ważna sprawa – nic nie ma prawa znaleźć się w kolumnie „Ukończone”, jeżeli nie może być użyte przez klienta. Innymi słowy,  s a m o c h ó d   m u s i   j e ź d z i ć. A jeżeli ktoś po jeździe testowej powie: „Hej, kierunkowskazy się blokują!”, zespół zajmie się problemem w kolejnym sprincie
+- Sprinty są niekiedy nazywane „ramami czasowymi”. Mają ustalony czas trwania. Nie może być tak, że jeden przebieg trwa tydzień, a inny trzy. Tu potrzebna jest konsekwencja. Chcemy przecież określić rytm pracy, sprawić, by ludzie wiedzieli, ile mogą zrobić w uzgodnionym okresie. Często ta ilość pracy bywa dla nich niespodzianką.
 ### Wdrożenie SCRUM'a
 
 - Wybór właściciela Produktu (Product Owner)
@@ -86,11 +126,6 @@
 - Codzienna spotkania (Daily)
 - Ocena sprintu i wersja demo
 - Retrospektywa sprintu
-
-- Poszukiwanie sposobu na pracę
-    - bardziej produktywną
-    - szcześliwszą
-    - wspomagający, przyjemniejszy i uwzioślający stan
 
 - Proste założenia
     - cykl sprawdzania i dostosowywania (Inspect and Adapt)
@@ -137,30 +172,6 @@
     - Przez długie miesiące możemy zmierzać w  kompletnie niewłaściwym kierunku i nawet tego nie podejrzewać
         - Im szybciej dostarczymy coś naszym klientom, tym szybciej oni powiedzą nam, czy robimy rzecz, której potrzebują.
     - Odparłem, że co miesiąc będę mu przedstawiał fragment działającego oprogramowania. Nie coś, co działa „na zapleczu”, nie fragment architektury. Po prostu kawałek programu, którego klient może faktycznie użyć
-
-- Sprint
-    - Podziel pracę na fragmenty, które możesz wykonać w regularnym, ustalonym, krótkim okresie. Optymalnie: od jednego do czterech tygodni. A jeżeli złapałeś już scrumowego bakcyla, nazwij je sprintem
-    - Na końcu każdego sprintu musi znaleźć się coś, co jest  gotowe. Coś, z czego można korzystać – do latania, jeżdżenia. Do czegokolwiek.
-    - Nazywany przepiegiem, cyklem, iteracją
-    - Na początku sprintu zespół spotyka się i planuje sprint
-        - Decyduje ile pracy może wykonać w trakcie sprintu
-        - Wybiera z listy priorytetów tematy
-    - Na koniec sprintu spotykamy się
-        - Analizujemy ile rzeczywiście udało się osiągnąć
-            - Pokazujemy co się udało osiągnąć
-            - Czy wzięli na swoje barki zbyt wiele i nie skończyli wszystkiego?
-            - Czy wzieli zbyt mało?
-            - Celem jest zrozumienie jak szybko pracuje grupa
-    - Zadajemy sobie pytania
-        - Co możemy zmienić w naszym sposobie pracy?
-        - Co najbardziej nas powstrzymuje?
-        - Jeśli odpowiedzi na te pytania otrzymujemy na bieżąco, zespół może działać szybciej, niż ktokolwiek jest w stanie sobie wyobrazić.
-    - każdy czwartek siadają i przyglądają się potężnemu rejestrowi rzeczy do zrobienia, który obejmuje wszystko – od przygotowania prototypu projektu nowej deski rozdzielczej po testowanie kierunkowskazów
-        - Porządkują tę listę według priorytetów, a następnie zadają sobie pytanie: „Dobrze. Ile z tych rzeczy możemy zrobić w nadchodzącym tygodniu?”. Przez „zrobić” rozumieją „wykonać całkowicie”, czyli „na gotowo”. I wprowadzone funkcje działają. Samochód jeździ. I tak co tydzień. I w każdym sprincie.
-        - Ważna sprawa – nic nie ma prawa znaleźć się w kolumnie „Ukończone”, jeżeli nie może być użyte przez klienta. Innymi słowy,  s a m o c h ó d   m u s i   j e ź d z i ć. A jeżeli ktoś po jeździe testowej powie: „Hej, kierunkowskazy się blokują!”, zespół zajmie się problemem w kolejnym sprincie
-    - Sprinty są niekiedy nazywane „ramami czasowymi”. Mają ustalony czas trwania. Nie może być tak, że jeden przebieg trwa tydzień, a inny trzy. Tu potrzebna jest konsekwencja. Chcemy przecież określić rytm pracy, sprawić, by ludzie wiedzieli, ile mogą zrobić w uzgodnionym okresie. Często ta ilość pracy bywa dla nich niespodzianką.
-    - Gdy zespół zobowiąże się do wykonania danego zadania, jest ono blokowane
-        - ingerowanie w działanie zespołu i rozpraszanie go drastycznie zmniejsza jego szybkość.
 
 - Zespoły
     - uzupełniające się nawzajem
