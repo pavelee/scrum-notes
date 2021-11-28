@@ -92,20 +92,6 @@
     -   Przez długie miesiące możemy zmierzać w  kompletnie niewłaściwym kierunku i nawet tego nie podejrzewać
         -   Im szybciej dostarczymy coś naszym klientom, tym szybciej oni powiedzą nam, czy robimy rzecz, której potrzebują.
     -   Odparłem, że co miesiąc będę mu przedstawiał fragment działającego oprogramowania. Nie coś, co działa „na zapleczu”, nie fragment architektury. Po prostu kawałek programu, którego klient może faktycznie użyć
--   „Planuj, wykonuj, sprawdzaj i działaj” (PDCA = Plan, Do, Check, Act)
-    -   Plan - 1 minuta - jak zbudować samolot
-    -   Do
-        -   3 minuty
-        -   na wykonanie konstrukcji, jeśli się uda
-    -   Check
-        -   2 minuty
-        -   sprawdzenie samolotu w praktyce
-        -   Analiza co można poprawić
-            -   Co działa dobrze
-            -   Co nie działa
-    -   Act
-        -   Zmiana spospobu pracy
-            -   na podstawie rzeczywistych danych z eksperymentów
 -   Wspołpraca
     -   Obwinianie kogokolwiek jest głupie
     -   Nie szukajmy złych ludzi, szukajmy złych systemów
@@ -157,9 +143,6 @@
     -   z czego księgowi nie zdają sobie sprawy, to fakt, że tworzą w ten sposób system przeznaczony do odmawiania ludziom czegoś, czego oni rzeczywiście chcą. Próbują ograniczyć koszty, a w efekcie ograniczają wydatki na naukę, innowację i kreatywność - tradycyjne zarządzanie projektem powstrzyma nas przed zmianami. Jest zorganizowane w taki sposób, aby uniemożliwić szybsze dostarczenie wartości.
         ![przyrost](https://github.com/pavelee/scrum_about_pl/blob/main/asset/przyrost.png?raw=true)
         ![krzywa](https://github.com/pavelee/scrum_about_pl/blob/main/asset/krzywa.png?raw=true)
--   Petla OODA
-    -   Połączenie obserwacji i orientacji prowadzi nas do „decyzji”, a ta z kolei do „działania”. Kolejna pętla to ponowna obserwacja wyników własnych działań oraz działań oponenta lub – w świecie biznesu – obserwacja reakcji rynku
-        ![ooda](https://github.com/pavelee/scrum_about_pl/blob/main/asset/ooda.png?raw=true)
 
 ### Korzyści dla Biznesu
 
