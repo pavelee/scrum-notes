@@ -157,26 +157,47 @@
     -   z czego księgowi nie zdają sobie sprawy, to fakt, że tworzą w ten sposób system przeznaczony do odmawiania ludziom czegoś, czego oni rzeczywiście chcą. Próbują ograniczyć koszty, a w efekcie ograniczają wydatki na naukę, innowację i kreatywność - tradycyjne zarządzanie projektem powstrzyma nas przed zmianami. Jest zorganizowane w taki sposób, aby uniemożliwić szybsze dostarczenie wartości.
         ![przyrost](https://github.com/pavelee/scrum_about_pl/blob/main/asset/przyrost.png?raw=true)
         ![krzywa](https://github.com/pavelee/scrum_about_pl/blob/main/asset/krzywa.png?raw=true)
+-   Petla OODA
+    -   Połączenie obserwacji i orientacji prowadzi nas do „decyzji”, a ta z kolei do „działania”. Kolejna pętla to ponowna obserwacja wyników własnych działań oraz działań oponenta lub – w świecie biznesu – obserwacja reakcji rynku
+        ![ooda](https://github.com/pavelee/scrum_about_pl/blob/main/asset/ooda.png?raw=true)
 
-### Ryzyko
+### Korzyści dla Biznesu
 
--   Powszechne ryzyka w projekcie:
-    -   ryzyko rynkowe - czy ludzie chca tego co tworzymy?
-        -   w rzeczywistości ludzie nie wiedzą, czego chcą, dopóki tego nie wypróbują
-        -   jak najszybsze zderzenie się z rzeczywisościa
-            -   minimalny wartościowy produkt (MVP)
-    -   ryzyko techniczne - czy rzeczywiście możemy to zrobić?
-        -   Prototypowanie pozwala na szybkie przedstawianie różnych możliwości bez ogromnych inwestycji
-        -   „inżynierią równoległą opartą na zestawach” (set-based concurrent engineering). Mówiąc prosto, oznacza to „budowanie kilku różnych prototypów, aby zobaczyć, który z nich działa najlepiej, jeszcze przed rozpoczęciem pełnej produkcji”
-    -   ryzyko finansowe - czy faktycznie możemy sprzedać to co stworzymy?
-        -   Tworzymy coś, co jest świetne, ale nie możemy sprzedać tego za taką kwotę, by osiągnąć zysk
-        -   jak szbko możemy sprawdzić żę klient zapłaci za 20% funkcjonalności
-        -   Scrum umożliwia biznesowi otrzymanie szybkiej odpowiedzi na pytanie: Czy robiąc to, zarobimy pieniądze? Dzięki jak najszybszemu zaprezentowaniu klientom wersji przyrostowych, dowiemy się, co oni cenią i za co są skłonni zapłacić. A jeśli nasze przewidywania są złe, możemy dokonać zmian
-        -   Co najwyżej stracimy czas i energię na kilka sprintów, w które zainwestowaliśmy, ale nie wydamy wielu milionów dolarów na zbudowanie skomplikowanej infrastruktury po to tylko, aby się dowiedzieć, że ludziom podoba się nasz produkt, tyle że nie aż tak, aby zapłacić za koszt jego wytworzenia
+#### Minimalizacja ryzyka, większa innowacja
 
-### Właścicel Produktu (Product Owner)
+-   ryzyko rynkowe - czy ludzie chca tego co tworzymy?
+    -   w rzeczywistości ludzie nie wiedzą, czego chcą, dopóki tego nie wypróbują
+    -   jak najszybsze zderzenie się z rzeczywisościa
+        -   minimalny wartościowy produkt (MVP)
+-   ryzyko techniczne - czy rzeczywiście możemy to zrobić?
+    -   Prototypowanie pozwala na szybkie przedstawianie różnych możliwości bez ogromnych inwestycji
+    -   „inżynierią równoległą opartą na zestawach” (set-based concurrent engineering). Mówiąc prosto, oznacza to „budowanie kilku różnych prototypów, aby zobaczyć, który z nich działa najlepiej, jeszcze przed rozpoczęciem pełnej produkcji”
+-   ryzyko finansowe - czy faktycznie możemy sprzedać to co stworzymy?
+    -   Tworzymy coś, co jest świetne, ale nie możemy sprzedać tego za taką kwotę, by osiągnąć zysk
+    -   jak szbko możemy sprawdzić żę klient zapłaci za 20% funkcjonalności
+    -   Scrum umożliwia biznesowi otrzymanie szybkiej odpowiedzi na pytanie: Czy robiąc to, zarobimy pieniądze? Dzięki jak najszybszemu zaprezentowaniu klientom wersji przyrostowych, dowiemy się, co oni cenią i za co są skłonni zapłacić. A jeśli nasze przewidywania są złe, możemy dokonać zmian
+    -   Co najwyżej stracimy czas i energię na kilka sprintów, w które zainwestowaliśmy, ale nie wydamy wielu milionów dolarów na zbudowanie skomplikowanej infrastruktury po to tylko, aby się dowiedzieć, że ludziom podoba się nasz produkt, tyle że nie aż tak, aby zapłacić za koszt jego wytworzenia
 
-### Lider Zespołu (Scrum Master)
+### Role w projekcie
+
+#### Właścicel Produktu (Product Owner)
+
+-   Cechy
+    -   Musi się znać na dziedzinie
+        -   rozumieć proces realizowany przez zespół na tyle dobrze, aby wiedzieć, co może być zrobione. I równie ważne, co nie może
+        -   rozumieć to  c o ś  na tyle dobrze, aby wiedzieć, jak przełożyć to, co można zrobić, na prawdziwą, znaczącą wartość
+        -   powinien znać rynek na tyle dobrze, aby wiedzieć, co zrobi różnicę
+    -   musi być upoważniony do podejmowania decyzji
+        -   powinien mieć swobodę w decydowaniu o tym, jaka będzie wizja produktu i co trzeba zrobić, aby uzyskać rezultat
+        -   Powinien być odpowiedzialny za wyniki, ale pozwalać zespołowi na podejmowanie własnych decyzji
+    -   musi pozostawać do dyspozycji zespołu, aby tłumaczyć, jakie potrzeby należy spełnić i dlaczego
+        -   Choć jest on ostatecznie odpowiedzialny za rejestr, musi prowadzić z zespołem ciągły dialog
+        -   Często wiedza zespołu ma wpływ na decyzje, jakie powinien podjąć. Musi być solidny, konsekwentny i dostępny. Bez dostępu do niego zespół nie będzie wiedział, co robić lub w jakiej kolejności. Zespół opiera się na Właścicielu Produktu w kwestii wizji, a także – co ważne – danych z rynku. Jeżeli Właściciel Produktu nie jest dostępny dla zespołu, cały proces może się rozpaść
+    -   musi być odpowiedzialny za wartość
+        -   oceniam Właściciela Produktu według tego, ile dochodu dostarcza zespół na każdy „punkt” wysiłku
+        -   Najważniejsze to zdecydować, co jest miarą wartości, i uczynić Właściciela Produktu odpowiedzialnym za jej wzrost
+
+#### Lider Zespołu (Scrum Master)
 
 -   Lider służebny
 -   Lider zajmuję się tylko usuwaniem przeszkód
@@ -186,7 +207,7 @@
 -   Zadaniem Scrum Mastera jest prowadzenie zespołu ku  stałej poprawie,czyli regularne zadawanie pytania: „Jak możemy zrobić to lepiej?”
 -   Nie było to typowe zarządzanie czy przywództwo, raczej pomoc ludziom w jak najlepszym wykonywaniu pracy
 
-### Zespół
+#### Zespół
 
 -   Nie mówił im, co mają robić, a zapewniał to, czego potrzebowali
 -   Jedną z istotnych zasad metody Scrum jest to, że członkowie grupy  s a m o d z i e l n i e   d e c y d u j ą  o sposobie wykonania pracy. Cele strategiczne to odpowiedzialność kierownictwa, ale podjęcie decyzji, jak je osiągnąć, jest zadaniem zespołu
@@ -218,7 +239,9 @@
 -   Nie ma odgórnego przydzielania zadań – zespół jest autonomiczny
     -   Ludzie robią to sami. Nie ma szczegółowych raportów dla kierownictwa
 
-### Road mapa i kamienie milowe
+### Techniki
+
+#### Road mapa i kamienie milowe
 
 -   Potrzebujemy minmalnego planu
     -   Nie chcemy poświęcać zbyt dużo czasu na planownie
@@ -226,7 +249,7 @@
 -   Szcujemy kiedy skończymy
     -   kamienie milowe są po to aby móc się zorientować jak szybko pracujemy
 
-### Daily
+#### Daily
 
 -   Jeżeli zajmuje więcej niż kwadrans, przeprowadzasz je źle
 -   Częstym problemem jest tendencja do traktowania przez ludzi tych codziennych zebrań jak okazji do indywidualnego zdawania raportów. „Zrobiłem to”, „zrobię tamto”… I przechodzimy do następnej osoby
@@ -238,13 +261,13 @@
     -   Co zrobisz dzisiaj?
     -   Jakie przeszkody stoją na drodze zespołu?
 
-### Tablica Agile
+#### Tablica Agile
 
 -   Celem jest transparentność, tablica to tylko środek do celu
 -   W praktyce tablice są wirtualne
     -   hybrydowa praca nie jest przyjazna fizycznej tablicy
 
-### Rejestr Produktu (Backlog)
+#### Rejestr Produktu (Backlog)
 
 -   Zawiera wszystko co jest do zrobienia
     -   od przygotowania prototypu projektu nowej deski rozdzielczej po testowanie kierunkowskazów
@@ -252,11 +275,11 @@
 -   Rejestr jest sortowany po priorytetach
     -   Tematy na górze rejestru są brane przez zespół do realizacji
 
-### Historyjki (User Story)
+#### Historyjki (User Story)
 
 -   ???
 
-### Sprint (przepieg, cykl, iteracja)
+#### Sprint (przepieg, cykl, iteracja)
 
 -   Podziel pracę na fragmenty, które możesz wykonać w regularnym, ustalonym, krótkim okresie
     -   Optymalnie: od jednego do czterech tygodni
@@ -427,20 +450,3 @@
         -   Podzieliłem zatem tę rolę na dwie mniejsze, czyniąc Scrum Mastera odpowiedzialnym za „jak”, a Właściciela Produktu za „co”
         -   A Właściciel Produktu musi dostarczyć zespołowi opinie od klienta przy każdym sprincie. Musi poświęcać połowę czasu pracy na rozmowy z ludźmi kupującymi produkt (uzyskując opinię zwrotną o ostatniej wersji przyrostowej i o wartości, jaka została dostarczona), a drugą połowę spędzać z zespołem przy tworzeniu rejestru (pokazując ludziom, co klienci cenią, a czego nie).
         -   Gdy wybieracie Właściciela Produktu, wybierzcie kogoś, kto potrafi wejść w buty użytkownika
-        -   Cechy
-            -   Musi się znać na dziedzinie
-                -   rozumieć proces realizowany przez zespół na tyle dobrze, aby wiedzieć, co może być zrobione. I równie ważne, co nie może
-                -   rozumieć to  c o ś  na tyle dobrze, aby wiedzieć, jak przełożyć to, co można zrobić, na prawdziwą, znaczącą wartość
-                -   powinien znać rynek na tyle dobrze, aby wiedzieć, co zrobi różnicę
-            -   musi być upoważniony do podejmowania decyzji
-                -   powinien mieć swobodę w decydowaniu o tym, jaka będzie wizja produktu i co trzeba zrobić, aby uzyskać rezultat
-                -   Powinien być odpowiedzialny za wyniki, ale pozwalać zespołowi na podejmowanie własnych decyzji
-            -   musi pozostawać do dyspozycji zespołu, aby tłumaczyć, jakie potrzeby należy spełnić i dlaczego
-                -   Choć jest on ostatecznie odpowiedzialny za rejestr, musi prowadzić z zespołem ciągły dialog
-                -   Często wiedza zespołu ma wpływ na decyzje, jakie powinien podjąć. Musi być solidny, konsekwentny i dostępny. Bez dostępu do niego zespół nie będzie wiedział, co robić lub w jakiej kolejności. Zespół opiera się na Właścicielu Produktu w kwestii wizji, a także – co ważne – danych z rynku. Jeżeli Właściciel Produktu nie jest dostępny dla zespołu, cały proces może się rozpaść
-            -   musi być odpowiedzialny za wartość
-                -   oceniam Właściciela Produktu według tego, ile dochodu dostarcza zespół na każdy „punkt” wysiłku
-                -   Najważniejsze to zdecydować, co jest miarą wartości, i uczynić Właściciela Produktu odpowiedzialnym za jej wzrost
--   Petla OODA
-    -   Połączenie obserwacji i orientacji prowadzi nas do „decyzji”, a ta z kolei do „działania”. Kolejna pętla to ponowna obserwacja wyników własnych działań oraz działań oponenta lub – w świecie biznesu – obserwacja reakcji rynku
-        ![ooda](https://github.com/pavelee/scrum_about_pl/blob/main/asset/ooda.png?raw=true)
