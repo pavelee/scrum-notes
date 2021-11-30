@@ -296,6 +296,7 @@
 #### Tablica Agile
 
 -   Prezentuje ona trzy poziomy stanu zadania: „Oczekujące”, „Wykonywane”, „Ukończone”
+    -   Każda kareczka reprezentuje konkretne zadanie
 -   Celem jest transparentność, tablica to tylko środek do celu
 -   Każdy ma dostęp do tablicy, może zobaczyć gdzie znajduje się zespół
 -   W praktyce tablice są wirtualne
