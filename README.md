@@ -301,6 +301,8 @@
 -   W praktyce tablice są wirtualne
     -   hybrydowa praca nie jest przyjazna fizycznej tablicy
 
+![stozek](https://github.com/pavelee/scrum_about_pl/blob/main/asset/tablica.png?raw=true)
+
 ### Wdrożenie SCRUM'a
 
 -   Wybór Właściciela Produktu
