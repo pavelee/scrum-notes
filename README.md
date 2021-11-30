@@ -30,8 +30,8 @@
 
 ### Różnica między Agile a Scrum?
 
-- Agile to jest filozofia, sposób myślenia na temat wykonywnia pracy
-- Scrum to konkretna implementacja zwinnej pracy
+-   Agile to jest filozofia, sposób myślenia na temat wykonywnia pracy
+-   Scrum to konkretna implementacja zwinnej pracy
 
 ### Czemu zwinna praca?
 
@@ -99,6 +99,7 @@
 ### Podstawowe założenia
 
 -   cykl sprawdzania i dostosowywania (Inspect and Adapt)
+    -   Co pewien czas należy przerwać pracę, sprawdzić, co zostało zrobione, i zobaczyć, czy to, co robimy, wciąż jest właściwe. I pomyśleć, jak można zrobić to lepiej.
     -   od samego początku regularne sprawdzanie kierunku (Inspect)
         -   czy robimy to co faktycznie jest potrzebne
         -   uzyskiwanie opinii na bieżąco
@@ -107,7 +108,6 @@
         -   Wersje demonstracyjne (prototypy)
             -   Dążenie do produktu możliwego do częstego prezentowania
     -   pytanie czy można to zrobić lepiej (Adapt)
-        -   szybciej i lepiej
         -   co nas przed tym powstrzymuje
             -   na początek musimy przerwać działania które nas wykańczają
             -   eksperymentowanie aby sprawdzić czy uda się osiągnąć poprawę
@@ -119,6 +119,13 @@
         -   dostarczyć 20% w pierwszej koleności
     -   to co wydaje wydawało się istotne na początku, w rzeczywistości takie nie musi być
         -   Zespół może dostarczyć większą wartość, robiąc coś innego
+        -   Trzeba koniecznie pamiętać, że nasza kolejność zmienia się nieustannie – właściwa w jednym tygodniu nie będzie taka sama w następnym. Zmienia się nasze środowisko. Uczymy się coraz to nowych rzeczy
+            -   Najważniejsze to uznać tę niepewność i zaakceptować fakt, że nasza aktualna kolejność (a co za tym idzie – wartość) jest związana z pewnym konkretnym momentem. To się zmieni. I znów. I znów.
+-   Praca małymi krokami
+    -   Myśląc o budowaniu czegokolwiek, nie zakładajmy, że aż do samego końca nie wytworzymy niczego wartościowego. Spróbujmy pomyśleć o planie minimum
+        -   Co jest rzeczą absolutnie najmniejszą, jaką mogę zbudować, by dostarczyła jakąś wartość klientowi?
+        -   Całość zasadza się na tym, że im prędzej otrzymamy rzeczywistą opinię, tym szybciej zrobimy lepszy samochód
+    -   Zatem najważniejsze – nie zaczynać od gotowego projektu! Lepiej zbudować funkcjonalny prototyp i poprawić ewentualne niedoróbki
 -   Minimalizacja marnotractwa
     -   Kluczem do przyśpieszenia jest pozbycie się marnotrawstwa
         -   Poprawiamy to co nas prowadzi do marnotractwa
@@ -141,15 +148,9 @@
 -   Zadowolenie z pracy
     -   Autonomia zespołu w tym jak realizują wizje
         -   Otwartość na kreatywność
+        -
     -   Mierzenie wyników, nie godzin
         -   Kogo obchodzi, ile godzin pracy coś nam zajęło? Liczy się, jak szybko zostało dostarczone i czy jest wystarczającej jakości
--   Prototypowanie
-    -   Myśląc o budowaniu czegokolwiek, nie zakładajmy, że aż do samego końca nie wytworzymy niczego wartościowego. Spróbujmy pomyśleć o planie minimum
-        -   Co jest rzeczą absolutnie najmniejszą, jaką mogę zbudować, by dostarczyła jakąś wartość klientowi?
-        -   Całość zasadza się na tym, że im prędzej otrzymamy rzeczywistą opinię, tym szybciej zrobimy lepszy samochód
-    -   Zatem najważniejsze – nie zaczynać od gotowego projektu! Lepiej zbudować funkcjonalny prototyp i poprawić ewentualne niedoróbki
-    -   Trzeba koniecznie pamiętać, że nasza kolejność zmienia się nieustannie – właściwa w jednym tygodniu nie będzie taka sama w następnym. Zmienia się nasze środowisko. Uczymy się coraz to nowych rzeczy
-        -   Najważniejsze to uznać tę niepewność i zaakceptować fakt, że nasza aktualna kolejność (a co za tym idzie – wartość) jest związana z pewnym konkretnym momentem. To się zmieni. I znów. I znów.
 
 ### Role w projekcie
 
@@ -165,6 +166,8 @@
     -   Upoważniony do podejmowania decyzji
     -   Pozostaje do dyspozycji zespołu, aby tłumaczyć, jakie potrzeby należy spełnić i dlaczego
     -   Odpowiedzialny za wartość
+
+![priorytet](https://github.com/pavelee/scrum_about_pl/blob/main/asset/priorytet.png?raw=true)
 
 #### Lider Zespołu (Scrum Master)
 
@@ -221,9 +224,11 @@
 
 -   Potrzebujemy minimalnego planu
     -   Nie chcemy poświęcać zbyt dużo czasu na planownie
-    -   Data na początku jest szacunkowa
--   Szcujemy kiedy skończymy
+-   Szacujemy kiedy skończymy
     -   kamienie milowe są po to aby móc się zorientować jak szybko pracujemy
+        -   Oszacowanie gdzie chcemy dość w tym kwartale, roku itp
+
+![stozek](https://github.com/pavelee/scrum_about_pl/blob/main/asset/stozek_niepewnosci.jpeg?raw=true)
 
 #### Rejestr Produktu (Product Backlog)
 
@@ -254,17 +259,26 @@
     -   Estimable (możliwa do oszacowania) – musi istnieć możliwość określenia jej rozmiaru.
     -   Small (mała) – czyli taka, którą można łatwo oszacować i zaplanować. Jeżeli jest zbyt długa, trzeba ją poprawić lub podzielić na mniejsze fragmenty.
     -   Testable (sprawdzalna) – musi mieć powiązany ze sobą test, który ma przejść, aby zostać zrealizowana.
+-   Dla każdej historyjki, którą się zajmujemy, powinna istnieć zarówno „definicja gotowości” (np. „Czy spełnia kryteria INVEST?”), jak i „definicja ukończenia” (np. „Jakie warunki muszą być spełnione, jakie testy trzeba zaliczyć, aby uznać pracę za zakończoną?”)
 
 #### Planowanie sprintu
 
+-   W metodzie Scrum ten rodzaj planowania występuje w każdym sprincie, podczas spotkania nazywanego „planowaniem sprintu”. Wszyscy się schodzą, patrzą na listę historii do wykonania i każdy mówi: „OK, co możemy osiągnąć w tym sprincie? Czy te historie są gotowe? Czy mogą być ukończone do zakończenia tego cyklu? Czy możemy potem zademonstrować je klientowi, aby dowieść ich rzeczywistej wartości?
 -   Planning poker
+    -   Unikanie negatywych skutków efektu "kaskady informacyjnej"
+        -   Opinia innych członków zespołu wpływa na naszą własną
     -   Pomysł jest prosty. Każda osoba dostaje zestaw kart z tak interesującymi liczbami Fibonacciego – 1, 2, 3, 5, 8, 13 itd. Każdy element, który trzeba oszacować, zostaje przeniesiony na stół. Następnie każdy uczestnik wyciąga kartę, która według niego odwzorowuje właściwy nakład pracy i kładzie ją wartością do góry na stole. Wszyscy odwracają karty jednocześnie
     -   Jeżeli liczby na każdej karcie mieszczą się w zakresie trzech wyrazów ciągu Fibonacciego od siebie (mały rozrzut; powiedzmy piątka, dwie ósemki oraz trzynaście), zespół jedynie dodaje wszystkie liczby, liczy średnią (w tym przypadku 8,5) i przechodzi do następnego elementu
-    -   Trzeba pamiętać, że mówimy o  o s z a c o w a n i a c h, a nie o ścisłych harmonogramach. I to o oszacowaniach, które dotyczą małych fragmentów projektu
-    -   Jeśli wartości na kartach mają rozrzut większy niż  t r z y  wyrazy ciągu, to wtedy osoby z kartą najwyższą i najniższą tłumaczą swoją decyzję. Następnie rozgrywamy kolejną rundę pokera
+    -   Trzeba pamiętać, że mówimy o oszacowaniach, a nie o ścisłych harmonogramach. I to o oszacowaniach, które dotyczą małych fragmentów projektu
+    -   Jeśli wartości na kartach mają rozrzut większy niż  trzy  wyrazy ciągu, to wtedy osoby z kartą najwyższą i najniższą tłumaczą swoją decyzję. Następnie rozgrywamy kolejną rundę pokera
     -   Zespół szybko kładzie nowe karty. Teraz trójka zamienia się w ósemkę, a pozostałe karty zostają bez zmian. Wyniki są wystarczająco bliskie, więc dodaje się je, uśrednia i przechodzi do następnego zadania.cel
 -   Niezwykle istotne jest, że oszacowania dokonuje zespół, który faktycznie wykonuje pracę, a nie jacyś specjaliści od szacunków „idealnych”
--   W metodzie Scrum ten rodzaj planowania występuje w każdym sprincie, podczas spotkania nazywanego „planowaniem sprintu”. Wszyscy się schodzą, patrzą na listę historii do wykonania i każdy mówi: „OK, co możemy osiągnąć w tym sprincie? Czy te historie są gotowe? Czy mogą być ukończone do zakończenia tego cyklu? Czy możemy potem zademonstrować je klientowi, aby dowieść ich rzeczywistej wartości?
+-   Finalnie chcemy mieć zbiór tasków do wykonania
+#### Retrospektywa sprintu
+
+-   Pod koniec sprintu chcemy zrozumieć gdzie możemy uzyskać poprawę
+-   Obwinianie kogokolwiek jest głupie
+    -   Nie szukajmy złych ludzi, szukajmy złych systemów. Takich, które generują niewłaściwe zachowania i – w efekcie – słabą wydajność.
 
 #### Daily
 
@@ -281,8 +295,8 @@
 
 #### Tablica Agile
 
--   Celem jest transparentność, tablica to tylko środek do celu
 -   Prezentuje ona trzy poziomy stanu zadania: „Oczekujące”, „Wykonywane”, „Ukończone”
+-   Celem jest transparentność, tablica to tylko środek do celu
 -   Każdy ma dostęp do tablicy, może zobaczyć gdzie znajduje się zespół
 -   W praktyce tablice są wirtualne
     -   hybrydowa praca nie jest przyjazna fizycznej tablicy
