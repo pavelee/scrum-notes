@@ -1,8 +1,8 @@
 # AGILE & SCRUM
 
--   [Źródło](#)
--   [Zwinna praca](#)
-    -   [Różnica między Agile a Scrum?](#)
+-   [Źródło](#źródło)
+-   [Zwinna praca](#zwinna-praca-agile)
+    -   [Różnica między Agile a Scrum?](#różnica-między-agile-a-scrum)
     -   [Czemu zwinna praca?](#)
     -   [Fundamentalne założenia Agile](#)
     -   [Minimalizacja ryzyka, większa innowacja](#)
