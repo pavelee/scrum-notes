@@ -157,7 +157,6 @@
 -   Zadowolenie z pracy
     -   Autonomia zespołu w tym jak realizują wizje
         -   Otwartość na kreatywność
-        -
     -   Mierzenie wyników, nie godzin
         -   Kogo obchodzi, ile godzin pracy coś nam zajęło? Liczy się, jak szybko zostało dostarczone i czy jest wystarczającej jakości
 
